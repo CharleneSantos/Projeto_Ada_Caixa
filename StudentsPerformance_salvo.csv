@@ -1,0 +1,1001 @@
+id,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+eJnWAMZLix4tVRJK5YiojG,female,group B,bachelor's degree,standard,none,72,72,74
+LW4rDUkBoWUc4jqSoVDzaS,female,group C,some college,standard,completed,69,90,88
+DXt3z4NDvdde5kytwdEagM,female,group B,master's degree,standard,none,90,95,93
+6Pfp3BdSeYLHvMPXLsbkNp,male,group A,associate's degree,free/reduced,none,47,57,44
+aHMTCcJeuXiv8apwMwbNBv,male,group C,some college,standard,none,76,78,75
+ntT7VWjE4aadDNaPTuhUqs,female,group B,associate's degree,standard,none,71,83,78
+mBAhjsdWmP8hkyEwizTm8F,female,group B,some college,standard,completed,88,95,92
+6AUivG22iFwYPW7R2DkizA,male,group B,some college,free/reduced,none,40,43,39
+Ut2fzcGNqdbyf6woBWner6,male,group D,high school,free/reduced,completed,64,64,67
+8jxCJGxHQQShWMQRPtxjZQ,female,group B,high school,free/reduced,none,38,60,50
+9gfBsJwL4mJDjvTE3veF9j,male,group C,associate's degree,standard,none,58,54,52
+MQxzKFa3Cgz9ebB8gtVrvQ,male,group D,associate's degree,standard,none,40,52,43
+RGtET27KUqdCF9g59g5uas,female,group B,high school,standard,none,65,81,73
+HPcavn3ZtCXHoqeD3ub994,male,group A,some college,standard,completed,78,72,70
+Gg6nTMgsLN8fbk8HnZBzYb,female,group A,master's degree,standard,none,50,53,58
+Zgm823ysX6jhiBmuBPE7Hm,female,group C,some high school,standard,none,69,75,78
+5oFqGTGMqr6Q9cCJWVbai4,male,group C,high school,standard,none,88,89,86
+o5RrcPYnWruWfg3zsEsVQB,female,group B,some high school,free/reduced,none,18,32,28
+3YZzmYiSS3f2CKc8y3UWWx,male,group C,master's degree,free/reduced,completed,46,42,46
+EWfAGptTH9hBMpAzeBmmBn,female,group C,associate's degree,free/reduced,none,54,58,61
+3m3Gsz6vX62CGacxcyDnNn,male,group D,high school,standard,none,66,69,63
+7bSbXj6ZCBSg5jB2sPkuCN,female,group B,some college,free/reduced,completed,65,75,70
+coR5oooG3nSDeA5ueGsyk3,male,group D,some college,standard,none,44,54,53
+a8bb5ERgxLfaVdU8EwXxm4,female,group C,some high school,standard,none,69,73,73
+6ioDmG5ovRQHNEKs5F5KZA,male,group D,bachelor's degree,free/reduced,completed,74,71,80
+nFKB3FmZWBUQeHRsQDQk9d,male,group A,master's degree,free/reduced,none,73,74,72
+Bkc3qrURZcQCtg4cx9NTXh,male,group B,some college,standard,none,69,54,55
+gfXacmBLZpyk6AGFVyXRNd,female,group C,bachelor's degree,standard,none,67,69,75
+SYpVNxggWgEriJYycUHDRs,male,group C,high school,standard,none,70,70,65
+AYBWr8uuXDxhZQQVLzrF7p,female,group D,master's degree,standard,none,62,70,75
+hEyJomKLjBSpJqAs723TpD,female,group D,some college,standard,none,69,74,74
+WDEdBFz97sKAJoSxUXyjVA,female,group B,some college,standard,none,63,65,61
+UHaDSwzKxkoLAEthZQzmHY,female,group E,master's degree,free/reduced,none,56,72,65
+hDDc4kPp7KJmEWFbZCvCYU,male,group D,some college,standard,none,40,42,38
+PqvZ6UBjfJvtV6ZZhE2HwH,male,group E,some college,standard,none,97,87,82
+4ofq6nunHfocfnkpCKqKnY,male,group E,associate's degree,standard,completed,81,81,79
+kMt5TjvLipc2QiRj8WKpH5,female,group D,associate's degree,standard,none,74,81,83
+hjddtzPDUasRmUvjjzA7zZ,female,group D,some high school,free/reduced,none,50,64,59
+8xFLLdoMUg24NXfT2fxzts,female,group D,associate's degree,free/reduced,completed,75,90,88
+PDo3rdLiEKTy6EigSFZmXe,male,group B,associate's degree,free/reduced,none,57,56,57
+fhtKbh9zFsD2f8MC62gQv6,male,group C,associate's degree,free/reduced,none,55,61,54
+5aKH4ZC7NZoYp8WChnvXub,female,group C,associate's degree,standard,none,58,73,68
+TZTznUjVjTLJrJbSooTbwj,female,group B,associate's degree,standard,none,53,58,65
+Gst7VNKJeZWVh6D8tWmfU8,male,group B,some college,free/reduced,completed,59,65,66
+KJxKT5doi57DqHgmhVqxHH,female,group E,associate's degree,free/reduced,none,50,56,54
+59KzvEqj2aKUF97GzPfM8p,male,group B,associate's degree,standard,none,65,54,57
+RctHDFvPmbQz9TVvVGnVtz,female,group A,associate's degree,standard,completed,55,65,62
+NJW23XtCnBrnuL8oZFwAZS,female,group C,high school,standard,none,66,71,76
+oKbmd5pZuDbxFZtY6uVqHe,female,group D,associate's degree,free/reduced,completed,57,74,76
+J7Yj4ukspniwaaJfTmeNwy,male,group C,high school,standard,completed,82,84,82
+HhapmCNVsixhdyipUqRJwB,male,group E,some college,standard,none,53,55,48
+FgwzFFioFURPnxS6CWMWc4,male,group E,associate's degree,free/reduced,completed,77,69,68
+i94DNJDQts83e2aZvi83Y9,male,group C,some college,standard,none,53,44,42
+9sWrnbRovLp7EX46QfG8sd,male,group D,high school,standard,none,88,78,75
+H234iGdpikPrvSHA9iwkih,female,group C,some high school,free/reduced,completed,71,84,87
+mzEEqmYqL5mTmu2aaZ5tms,female,group C,high school,free/reduced,none,33,41,43
+9rcgpKpaXqazkbBbXHJqgg,female,group E,associate's degree,standard,completed,82,85,86
+TFke2yY9WUBbjw3ZdBiNra,male,group D,associate's degree,standard,none,52,55,49
+4wBj8PE85BJrxm4xLfbtuq,male,group D,some college,standard,completed,58,59,58
+CxbjAT8S7Ac36yT5ELF7CG,female,group C,some high school,free/reduced,none,0,17,10
+LrCzyXS95BpqAVJriZStYG,male,group E,bachelor's degree,free/reduced,completed,79,74,72
+27ksAdCfiSHGJSeucNPNCN,male,group A,some high school,free/reduced,none,39,39,34
+Q5rsjBudK7wgsMBvHQHb66,male,group A,associate's degree,free/reduced,none,62,61,55
+iAwkXc7EgZ7u2eDYYxqhEb,female,group C,associate's degree,standard,none,69,80,71
+Vn8QhRnFmnkRuzHrLackzw,female,group D,some high school,standard,none,59,58,59
+C2unfZqPNHQy3KPfx6ZHfB,male,group B,some high school,standard,none,67,64,61
+bakwG4KUVSQvyMPJcViRrS,male,group D,some high school,free/reduced,none,45,37,37
+BMTiJsCuZ7Aw8NVHPeMu9P,female,group C,some college,standard,none,60,72,74
+7uKH3tbw4f86iBuhwXxEK6,male,group B,associate's degree,free/reduced,none,61,58,56
+MJFmnjusTA5KnD97CSauTC,female,group C,associate's degree,standard,none,39,64,57
+kMdygohTXEoUyt8mpDKJJT,female,group D,some college,free/reduced,completed,58,63,73
+DYCwtute7E7BPMAdfJBMkc,male,group D,some college,standard,completed,63,55,63
+i8CPKxks6pDj4hNa7BizAC,female,group A,associate's degree,free/reduced,none,41,51,48
+Q3YpGXikWMqzzYCtpvRdFu,male,group C,some high school,free/reduced,none,61,57,56
+cAjuaVV9HHzbmN6yeZsoog,male,group C,some high school,standard,none,49,49,41
+cVYc2gaqtAVrxbbCvEnXv3,male,group B,associate's degree,free/reduced,none,44,41,38
+ij6Wg2uxKiJFTZTBJCb8Zv,male,group E,some high school,standard,none,30,26,22
+TUM6dBtrAJfVBHaVN8FrdG,male,group A,bachelor's degree,standard,completed,80,78,81
+62C9UAqrqoN3phXWMQ77iQ,female,group D,some high school,standard,completed,61,74,72
+hHN8D8CULmLZb9SV8T2sPd,female,group E,master's degree,standard,none,62,68,68
+MogTdZQLHmqCZczDGe4doU,female,group B,associate's degree,standard,none,47,49,50
+bZ528BpMLWCdTL9BGS6e4x,male,group B,high school,free/reduced,none,49,45,45
+FYnh9S5hWnZMxDzD4KYYvZ,male,group A,some college,free/reduced,completed,50,47,54
+SvZUdT2egV8BjE34Lz3Jpv,male,group E,associate's degree,standard,none,72,64,63
+Y39Z2huomafHtZt2FFFXVH,male,group D,high school,free/reduced,none,42,39,34
+gLFeEzrLb8WquWQkPZWkoe,female,group C,some college,standard,none,73,80,82
+9GCkQ7qo7u55w6LfGsx3MZ,female,group C,some college,free/reduced,none,76,83,88
+ifBJKTrDrP3JtCCauVAwwV,female,group D,associate's degree,standard,none,71,71,74
+CQvfScYtBNaTBH7H3q6Mu8,female,group A,some college,standard,none,58,70,67
+QtYNtT2c2V6abdvTPUq4Ls,female,group D,some high school,standard,none,73,86,82
+Q4sHETWY3YtGgJjVDGRZe7,female,group C,bachelor's degree,standard,none,65,72,74
+gewC95hYQhE42qvNYqXfDW,male,group C,high school,free/reduced,none,27,34,36
+895n2LxdqCrgvtTkdQtf6n,male,group C,high school,standard,none,71,79,71
+bgrVYYGN79kmig5KwM7TyF,male,group C,associate's degree,free/reduced,completed,43,45,50
+VqQUs3NbqEpUuvSVnc6747,female,group B,some college,standard,none,79,86,92
+9wpJgqYgNcYjvbzgdb4pQu,male,group C,associate's degree,free/reduced,completed,78,81,82
+JMnCJ2bFUijzkPMBPDQwgs,male,group B,some high school,standard,completed,65,66,62
+ma7CpP7ys77oEkrHNnuSg4,female,group E,some college,standard,completed,63,72,70
+CrodwafWoDqqk3KSEaGrL3,female,group D,some college,free/reduced,none,58,67,62
+7G4eXsa96GXHosLRUFqvT2,female,group D,bachelor's degree,standard,none,65,67,62
+Z7FPS5F6hfH48mt2aXQwSy,male,group B,some college,standard,none,79,67,67
+MTxaEcJqqTpBvQn7RqeWmQ,male,group D,bachelor's degree,standard,completed,68,74,74
+RMjftdeQPrcSSupMLdrpvt,female,group D,associate's degree,standard,none,85,91,89
+3GoxDYzmAddp5cFvLYP9Wj,male,group B,high school,standard,completed,60,44,47
+PcosCJdKC8uH82hW7mFa4m,male,group C,some college,standard,completed,98,86,90
+55gpzKnq3SJDCVxiYSNopQ,female,group C,some college,standard,none,58,67,72
+A8mpoREUeyPtXUTSECgGr9,female,group D,master's degree,standard,none,87,100,100
+UujuTRkiKquKRVaVLgcbcN,male,group E,associate's degree,standard,completed,66,63,64
+6dLVSCxGYC4XWDWV5FQr7f,female,group B,associate's degree,free/reduced,none,52,76,70
+S3xZzxe8anbMeE3ajA65c4,female,group B,some high school,standard,none,70,64,72
+Vzd6cwSCXcVtT5M7kfQL2f,female,group D,associate's degree,free/reduced,completed,77,89,98
+P7QQrHdLeUA5jNEYjYThYs,male,group C,high school,standard,none,62,55,49
+EQ6YksyJZFyH5vaBaqPFnk,male,group A,associate's degree,standard,none,54,53,47
+Apy4wGHffGB23V7wqXKcpE,female,group D,some college,standard,none,51,58,54
+LY7ERaiKKutFXmF7FbYtPj,female,group E,bachelor's degree,standard,completed,99,100,100
+U25VHmjijF5swXqhPc9od6,male,group C,high school,standard,none,84,77,74
+TU5DGvqrt8WAHDQchXSDea,female,group B,bachelor's degree,free/reduced,none,75,85,82
+h4YbEwq6tppyGHz8ojWemn,female,group D,bachelor's degree,standard,none,78,82,79
+W8hFhCivFkniR7uxoEk6Ye,female,group D,some high school,standard,none,51,63,61
+SvPnqeq6AwUkSR44oeybGr,female,group C,some college,standard,none,55,69,65
+4HuCMVH3EDbuJXQGDqz3J6,female,group C,bachelor's degree,standard,completed,79,92,89
+jidfLvGHA6KuDFFTrwoZnJ,male,group B,associate's degree,standard,completed,91,89,92
+TQLmXwJmvfGKLoV6mWobMC,female,group C,some college,standard,completed,88,93,93
+GGByaCC27bq7shNHNF7UCE,male,group D,high school,free/reduced,none,63,57,56
+fwwiaqswFbWex3LVhPJCMx,male,group E,some college,standard,none,83,80,73
+2c6Sj6sEiixqDxzLvKMfgN,female,group B,high school,standard,none,87,95,86
+2ihvCqcVniLRW7Z8s3QGkC,male,group B,some high school,standard,none,72,68,67
+P8tVMFisRcXxmaPmQYcjAS,male,group D,some college,standard,completed,65,77,74
+Nb4YU8zyTcvMZpeeENzaPn,male,group D,master's degree,standard,none,82,82,74
+aDVkvnB9NuggQ74t9EE4KT,female,group A,bachelor's degree,standard,none,51,49,51
+MUtvauTEMkwwZ8mT6heXxZ,male,group D,master's degree,standard,none,89,84,82
+Gkydh8TgAe5m9hX6eqMK8g,male,group C,some high school,free/reduced,completed,53,37,40
+aEi3armv5XuZXh48Xveqj8,male,group E,some college,free/reduced,completed,87,74,70
+6kdKHuCMP7c7y8H7DxpiYe,female,group C,some college,standard,completed,75,81,84
+MPRoMhoxNuBKcEDK8GMGDP,male,group D,bachelor's degree,free/reduced,completed,74,79,75
+C9a8zSxnvpDAAJAQAy22yx,male,group C,bachelor's degree,standard,none,58,55,48
+gYWbibNGNrZZRb8QzuKn2F,male,group B,some high school,standard,completed,51,54,41
+bTBaVSCobtzh8AUmUyGrmg,male,group E,high school,standard,none,70,55,56
+USefCsUCjpB7Y6GjHy986Z,female,group C,associate's degree,standard,none,59,66,67
+XhNvpPgxNjgYEcDsimM3BS,male,group D,some college,standard,completed,71,61,69
+KHYe6CTqQXzYUXjhb6GGwU,female,group D,some high school,standard,none,76,72,71
+YfCNWGaB5s8ohgLtx5LsAz,female,group C,some college,free/reduced,none,59,62,64
+GWBKmtEyhXteo9X93FbXFS,female,group E,some college,free/reduced,completed,42,55,54
+4cboTSX7EpD26gNPKkyPca,male,group A,high school,standard,none,57,43,47
+W7CYrM54bgyFcWU5miGfHi,male,group D,some college,standard,none,88,73,78
+NvAJBFzyzkSq5H6jRJFQ9c,female,group C,some college,free/reduced,none,22,39,33
+HYAzH9rAGL4G3xRcmKuYVi,male,group B,some high school,standard,none,88,84,75
+RUdBdof6nLvfpvLngArYie,male,group C,associate's degree,free/reduced,none,73,68,66
+XKcukG2WLZtX7wjJjgTEh4,female,group D,bachelor's degree,standard,completed,68,75,81
+dgmrqVTMhtFbrx9UE5nx5m,male,group E,associate's degree,free/reduced,completed,100,100,93
+KYHwEMiomiHYcYC8PiqHCJ,male,group A,some high school,standard,completed,62,67,69
+iMX4w3N8C29oMvWMuE2ZJq,male,group A,bachelor's degree,standard,none,77,67,68
+ECTbodZG8FE7jT3QHiZ8wb,female,group B,associate's degree,standard,completed,59,70,66
+eWLCzasCsuRJVgBBXeZdiT,male,group D,bachelor's degree,standard,none,54,49,47
+NcnAM7znaw5iD23Qs6k6BC,male,group D,some high school,standard,none,62,67,61
+gqVkM6B5DKkeYXYmqPNpK5,female,group C,some college,standard,completed,70,89,88
+fUE6xTAqcSDYbHqaaprxSN,female,group E,high school,free/reduced,completed,66,74,78
+FdbXYWwbkqwxWNYFr7tDXw,male,group B,some college,free/reduced,none,60,60,60
+AtrppdURg3Tr56sSzgcrdH,female,group B,associate's degree,standard,completed,61,86,87
+UtQEqjxhVrSapuNuQ9C8Rb,male,group D,associate's degree,free/reduced,none,66,62,64
+HwmYTEjzmPRwZ2w4xanwbJ,male,group B,associate's degree,free/reduced,completed,82,78,74
+U3KQ2Tys3kqpY6ohg3v4kz,female,group E,some college,free/reduced,completed,75,88,85
+FRWNTfUNRiuhVcFaQsifLj,male,group B,master's degree,free/reduced,none,49,53,52
+kZS3fP8b7wTGudGDcCwvoD,male,group C,high school,standard,none,52,53,49
+RmfDaiWoprJ93mbhH2VCWe,female,group E,master's degree,standard,none,81,92,91
+XziBuFpkoycPGrxeuQbHTS,female,group C,bachelor's degree,standard,completed,96,100,100
+ni9ns5cZUSQz9qXjq5wfGw,male,group C,high school,free/reduced,completed,53,51,51
+JGciywjkR6DMBsPF5w8EpQ,female,group B,master's degree,free/reduced,completed,58,76,78
+VRcnPV2prb3gPGW6w4gJDo,female,group B,high school,standard,completed,68,83,78
+4KRiMueWRQFCejz7c39EH5,female,group C,some college,free/reduced,completed,67,75,70
+8DDaUA4gHFHYLHp2TW3ZPX,male,group A,high school,standard,completed,72,73,74
+Gb5cTWmr5w9jtytomk6fo4,male,group E,some high school,standard,none,94,88,78
+Ss6QiZmFCrFSLo3uRvJZYA,female,group D,some college,standard,none,79,86,81
+RnXDWLvA2Dmwwr57rRrx57,female,group C,associate's degree,standard,none,63,67,70
+VnrHRYt7rGDWTszUWFyAJZ,female,group C,bachelor's degree,free/reduced,completed,43,51,54
+5FXGJazCpi4U8nYtvzvtbj,female,group C,master's degree,standard,completed,81,91,87
+izHsgoM9umnvqCW5qdWHzH,female,group B,high school,free/reduced,completed,46,54,58
+ji7eGgqUaARCYZJtfRejXL,female,group C,associate's degree,standard,completed,71,77,77
+9bbo2fciZ9LfgDrdjG47ZG,female,group B,master's degree,free/reduced,completed,52,70,62
+6Tc7UzohLibN58SvXQZqcn,female,group D,some high school,standard,completed,97,100,100
+CQV4jzJ3wLRmrUFymypQSG,male,group C,master's degree,free/reduced,completed,62,68,75
+KCXuxMQXmQWY8YNkxZBqrr,female,group C,some college,free/reduced,none,46,64,66
+oHUDHDLg3so6HWaXw4V8t3,female,group E,high school,standard,none,50,50,47
+TWX57jetqxgrD8QT6uEEW8,female,group D,associate's degree,standard,none,65,69,70
+Q8jxSDLG8LZxAmQN9uxDJL,male,group C,some high school,free/reduced,completed,45,52,49
+6rUysn629UF3QeAahLMZEB,male,group C,associate's degree,free/reduced,completed,65,67,65
+7cEdj988KJiQn664c3g2LF,male,group E,high school,standard,none,80,76,65
+9qV3ZiyD85raSjqSPrnyew,male,group D,some high school,standard,completed,62,66,68
+HCDB7GrKBrAPTcwNxUUph9,male,group B,some high school,free/reduced,none,48,52,45
+3myNTJd5cVokjUWeLY7YAL,female,group C,bachelor's degree,standard,none,77,88,87
+KuXKv8JeyrQn4UGUahEoBW,female,group E,associate's degree,standard,none,66,65,69
+CKFGkUQyrEZCyAr2azLQeS,male,group D,some college,standard,completed,76,83,79
+YvNvnb3E6kHgkbWRJtBB6d,female,group B,some high school,standard,none,62,64,66
+D6XCVyYmsj3dVfgE7bt2gT,male,group D,some college,standard,completed,77,62,62
+ARegrUrZWB4yhLP97oprUy,female,group C,master's degree,standard,completed,69,84,85
+LcE7dFSbkwuZtwAmTCRZfQ,male,group D,associate's degree,standard,none,61,55,52
+DdakuhnjyYn43yhPT7sMES,male,group C,some high school,free/reduced,completed,59,69,65
+5kQwMCsveZkmnhMrxpP3HH,male,group E,high school,free/reduced,none,55,56,51
+N9EDPyUfUydFoK8pfx8vG9,female,group B,some college,free/reduced,none,45,53,55
+J5E9pTfA8bDYbddz5q2zEb,female,group B,bachelor's degree,free/reduced,none,78,79,76
+CVxo9STqM4PT6fr5eFxvMD,female,group C,associate's degree,standard,completed,67,84,86
+mzauYJbgNQa7bdjrxdpWM5,female,group D,some college,free/reduced,none,65,81,77
+ZEntqVHzSRQ8F9mQdq85y9,male,group C,associate's degree,standard,none,69,77,69
+Ug3vYoUuKE4JhzriDhzUvb,female,group B,associate's degree,standard,none,57,69,68
+3Dbo3tTWSGLcFzJt2YrJ3L,male,group C,some college,standard,none,59,41,42
+8mRbadD3WQZvNpP7AwPtac,male,group D,some high school,standard,completed,74,71,78
+XiBAN6Zv84X47cLXs7PsNd,male,group E,bachelor's degree,standard,none,82,62,62
+3gHLPxrJ6KFo5cvR5wX4hC,male,group E,high school,standard,completed,81,80,76
+cNjpMSExmboWSTYmDYurUy,female,group B,some college,free/reduced,none,74,81,76
+g4YtgW9pVtHJWC6TaweEen,female,group B,some college,free/reduced,none,58,61,66
+WQziejUnPxugrhcj2dS65T,male,group D,some high school,free/reduced,completed,80,79,79
+H9Do9ZbQ5RXaYdPE3fS6aQ,male,group C,some college,free/reduced,none,35,28,27
+bNwjA4hVuWK8CkHzzAyv3V,female,group C,high school,free/reduced,none,42,62,60
+36FGjYaQ7czr5bNELDsBGb,male,group C,associate's degree,free/reduced,completed,60,51,56
+j5RERDKmrjZiXLYAUUSXjJ,male,group E,high school,standard,completed,87,91,81
+mwdjM77xTWZc8XWUyZQcmY,male,group B,some high school,standard,completed,84,83,75
+9ZSSUAJ5dfW7LnagfennNC,female,group E,associate's degree,free/reduced,completed,83,86,88
+jZCadKVK5zkRjNStepwMVB,female,group C,high school,free/reduced,none,34,42,39
+nUZxTT3vXmCnxtZdgHbzze,male,group B,high school,free/reduced,none,66,77,70
+QHADTBYRZBdujCxoViV4sy,male,group B,some high school,standard,completed,61,56,56
+DpBkUwmxCTnaACc8f5nWuY,female,group D,high school,standard,completed,56,68,74
+4ZY3kpkTPP3h8paoTjjuCa,male,group B,associate's degree,standard,none,87,85,73
+ccxQJfPSEp4pHrh7spQdQJ,female,group C,some high school,free/reduced,none,55,65,62
+5dvfpDPzi9Gsrzw89R9PJu,male,group D,some high school,standard,none,86,80,75
+Ys4vXofRxEwvdRhLb5ALAJ,female,group B,associate's degree,standard,completed,52,66,73
+dHDm56Cc2aUFYs7onF9abX,female,group E,master's degree,free/reduced,none,45,56,54
+TdB57o76vQPhhc2DUktC3y,female,group C,some college,standard,none,72,72,71
+5srgLF8PNJwLZMSme7zmjQ,male,group D,high school,standard,none,57,50,54
+SYhjKgMfzPurc3yFhpqbpN,male,group A,some high school,free/reduced,none,68,72,64
+MRF7VMocnXSRJQd3tgZtbd,female,group C,some college,standard,completed,88,95,94
+czQPc6P6HmW5TaBVBxJ866,male,group D,some college,standard,none,76,64,66
+BR47bBqRiCHG6aJMPW8RTk,male,group C,associate's degree,standard,none,46,43,42
+jYQnyHw39zmj2mMeYq9L6H,female,group B,bachelor's degree,standard,none,67,86,83
+LYV2VaaAoEJoPXeiuyPime,male,group E,some high school,standard,none,92,87,78
+Bh3VKXvxggPQG5J9mFzBiM,male,group C,bachelor's degree,standard,completed,83,82,84
+eTKRATQiT5LiPYpvDXFoAy,male,group D,associate's degree,standard,none,80,75,77
+anFBh8LJfyMi2qZBxnNSDc,male,group D,bachelor's degree,free/reduced,none,63,66,67
+cn8XTVmxJ6L8zXE8d83QkZ,female,group D,some high school,standard,completed,64,60,74
+CX8Y9dAHkEok2buMxiLt6c,male,group B,some college,standard,none,54,52,51
+6cfSkVXrEwGpUCXqx2VAQQ,male,group C,associate's degree,standard,none,84,80,80
+d7akHpQbasRmXSrcZWbrw8,male,group D,high school,free/reduced,completed,73,68,66
+RbtWRTYwmjzzzuGexhzF2V,female,group E,bachelor's degree,standard,none,80,83,83
+dSNGSVFPvfEQTfCuyBQDbb,female,group D,high school,standard,none,56,52,55
+j3PfD5BAhNyaxqDZ77TdLs,male,group E,some college,standard,none,59,51,43
+AHpGur4YSEkPojcowkjrw5,male,group D,some high school,standard,none,75,74,69
+iovcbFeFpf9YEXE3jxNT8J,male,group C,associate's degree,standard,none,85,76,71
+64FKh4QBfzKyPUgBnepNGV,male,group E,associate's degree,standard,none,89,76,74
+cSSuNyAQFE2PgGq2JLmEMC,female,group B,high school,standard,completed,58,70,68
+efbGWtzXjtaRwWc2KKMuJM,female,group B,high school,standard,none,65,64,62
+gsEij39c8vTX6FVBKaPrHr,male,group C,high school,standard,none,68,60,53
+dr7CgRR5QPEf6MpfK5B336,male,group A,some high school,standard,completed,47,49,49
+hQemjryhZXHNFCqAcP4mdU,female,group D,some college,free/reduced,none,71,83,83
+ctdXLbuf2XSaNrkprWo3Qn,female,group B,some high school,standard,completed,60,70,70
+jkepiPWrctqPfSi2NpfRnm,male,group D,master's degree,standard,none,80,80,72
+FxU4u8aWV8aXSAz5jaMWKV,male,group D,high school,standard,none,54,52,52
+RzjZpzHEK9tjD25FU7ou97,female,group E,some college,standard,none,62,73,70
+HfERCCKu9kQYh2mw7Fe9KV,female,group C,associate's degree,free/reduced,none,64,73,68
+Ch5qFsSRJgb8FRDWDTGceK,male,group C,associate's degree,standard,completed,78,77,77
+gLXZ6WtFgANCmSe4uGkwVc,female,group B,some college,standard,none,70,75,78
+3yxPPFjXkxDryqXoaBkKCr,female,group C,master's degree,free/reduced,completed,65,81,81
+RDSXB92U4CZxE4onhtdGrm,female,group C,some high school,free/reduced,completed,64,79,77
+8BUW33NDTUQuyb5qu9iLGa,male,group C,some college,standard,completed,79,79,78
+922hvd8VLG4sGPmG5Vrmec,female,group C,some high school,free/reduced,none,44,50,51
+EMABNdK7uDnpaJBLeLKH98,female,group E,high school,standard,none,99,93,90
+J73aPEUfCuFnmcyQ2bFaGt,male,group D,high school,standard,none,76,73,68
+VoXsrMJ5aRqUd2Jbi2yYVT,male,group D,some high school,free/reduced,none,59,42,41
+NJ2c9MhuT5QjEFjx3VmfV7,female,group C,bachelor's degree,standard,none,63,75,81
+PzDUHwzSrApoZMCGxZdRPv,female,group D,high school,standard,none,69,72,77
+GCbqfxtSgbGVraSBFYBKoP,female,group D,associate's degree,standard,completed,88,92,95
+3Nv9bRePVzgX4coSVjaeFH,female,group E,some college,free/reduced,none,71,76,70
+9UPvPvuPVBSDi7YQCtXELy,male,group C,bachelor's degree,standard,none,69,63,61
+bHzHbP6WYqJ8phuxJCApwq,male,group C,some college,standard,none,58,49,42
+L4v4DMEfQpMsZKVguAfJkP,female,group D,associate's degree,free/reduced,none,47,53,58
+nZHzZJ78fcVHWHe66RBVzf,female,group D,some college,standard,none,65,70,71
+6CWFP42PhZSYFzvCwdVgbC,male,group B,some college,standard,completed,88,85,76
+4WgMyeXgjxfhrwh2QZr2om,male,group C,bachelor's degree,standard,none,83,78,73
+4uRxnECQ5ABfofQfPMJ9Ng,female,group C,some high school,standard,completed,85,92,93
+S7eLQCYdMHGctnCdo4ERjt,female,group E,high school,standard,completed,59,63,75
+ZuDkmMwcCQgagi3NYwiPLo,female,group C,some high school,free/reduced,none,65,86,80
+HEJjsN6LbjaZRKzWfk4wKq,male,group B,bachelor's degree,free/reduced,none,73,56,57
+g4WVpQhhoekhM7t23w6LaL,male,group D,high school,standard,none,53,52,42
+XLJiUK6YpKS8rVdiAcAd3p,male,group D,high school,standard,none,45,48,46
+QUiJNa5zUoYdCvwzfmmJJk,female,group D,bachelor's degree,free/reduced,none,73,79,84
+VnMYAGp2CoQehrHTbWRwBx,female,group D,some college,free/reduced,completed,70,78,78
+bUh6ejRJeYjvtowtui4cBY,female,group B,some high school,standard,none,37,46,46
+m57ravJATjTXoyAb3hdpaQ,male,group B,associate's degree,standard,completed,81,82,82
+BH4HwSz6fNoqTVcSCaLYhd,male,group E,associate's degree,standard,completed,97,82,88
+GDgmtSNsryvWyDvdgZwvPB,female,group B,some high school,standard,none,67,89,82
+WdhrEeRMUmLzFKEtbBWY3K,male,group B,bachelor's degree,free/reduced,none,88,75,76
+HNF8g6D8Gsd6FHSR4qAvkj,male,group E,some high school,standard,completed,77,76,77
+oDUJaDKgp3DwzjpnqepJAq,male,group C,associate's degree,standard,none,76,70,68
+6mWKMUKNvew92k2XN95wV3,male,group D,some high school,standard,none,86,73,70
+eYHYHm6RR8A5NzuqEHpq7t,male,group C,some high school,standard,completed,63,60,57
+NRRmpKDFh8XGEiLrfwpWqK,female,group E,bachelor's degree,standard,none,65,73,75
+nRqEXjNpjkLoRMrNkAgXNL,male,group D,high school,free/reduced,completed,78,77,80
+YXYZt7DpqPVQG4XKaehZfB,male,group B,associate's degree,free/reduced,none,67,62,60
+Jbs8LFRWymrZisq8d3sKBG,male,group A,some high school,standard,completed,46,41,43
+C4hnNLvAi5YdVGw6n6qpu6,male,group E,associate's degree,standard,completed,71,74,68
+8pT8ZKP8QiMmr9dkiaZHkG,male,group C,high school,free/reduced,completed,40,46,50
+cYiMw9rPYXavkmtSs6fd8L,male,group D,associate's degree,free/reduced,none,90,87,75
+bgwUA7WBrM6tm7iC2aHyKM,male,group A,some college,free/reduced,completed,81,78,81
+BZCgZKjQC8pSw2oZhUe4eg,male,group D,some high school,free/reduced,none,56,54,52
+5wc7XDn7qc52ryX6tWvtRh,female,group C,associate's degree,standard,completed,67,84,81
+AQv24UycWZFgTvdGFpHNyx,male,group B,associate's degree,standard,none,80,76,64
+KeHFQY2y8Fo9tCubMxpn5P,female,group C,associate's degree,standard,completed,74,75,83
+hjFspiNTKvud599n6quJbM,male,group A,some college,standard,none,69,67,69
+SD2muSxZRFK8mkVABeXtg7,male,group E,some college,standard,completed,99,87,81
+TioB5WeYRbhn9cRSesWY84,male,group C,some high school,standard,none,51,52,44
+jh9fQxVQbo97uQyLm6uw67,female,group B,associate's degree,free/reduced,none,53,71,67
+MKQjpXqr28MahfbJFKHzjY,female,group D,high school,free/reduced,none,49,57,52
+4n48i8HJVmMdM5ac7iszdo,female,group B,associate's degree,standard,none,73,76,80
+cGj3Mogo4Q8AbcbuAENQ4g,male,group B,bachelor's degree,standard,none,66,60,57
+gNCSSXpXWiYi4c2nMhtArX,male,group D,bachelor's degree,standard,completed,67,61,68
+Kjg5aeTXWt6P5rW3svSPAS,female,group C,associate's degree,free/reduced,completed,68,67,69
+KpYphuJXBdwCqrPDdDCMf5,female,group C,bachelor's degree,standard,completed,59,64,75
+2vZWnt7oGGwAKVynTkTbcz,male,group C,high school,standard,none,71,66,65
+Xajw4XRKmUTRu3qdYnkrK6,female,group D,master's degree,standard,completed,77,82,91
+cSTak6BzXQNDQMeGQmvTCp,male,group C,associate's degree,standard,none,83,72,78
+J6EpjRr2QUDEZjgjKzN7Le,male,group B,bachelor's degree,standard,none,63,71,69
+eQNgw8TKvKrUknSkyZ4TPs,female,group D,associate's degree,free/reduced,none,56,65,63
+kF65FYPFsafa4QCGgXmAjz,female,group C,high school,free/reduced,completed,67,79,84
+djoB9jfyco7t2p7Pbaq97R,female,group E,high school,standard,none,75,86,79
+RUFYDXCW3vztFetQnSpghX,female,group C,some college,standard,none,71,81,80
+GKEHHq5fwqqwfzFyUY8EFo,female,group C,some high school,free/reduced,none,43,53,53
+8khVxuYoTmAgxsmEthnWGz,female,group C,high school,free/reduced,none,41,46,43
+5wBpc4gmkzx2okWQbEBjbG,female,group C,some college,standard,none,82,90,94
+CZXs5hyuWR3RWfcjg9VxFU,male,group C,some college,standard,none,61,61,62
+MASrdNxC79NLYffL7GEG3T,male,group A,some college,free/reduced,none,28,23,19
+h3vei8ZGYPHgcdAM4NPXBB,male,group C,associate's degree,standard,completed,82,75,77
+SHzroMWSsS6g4LTPy8dEQe,female,group B,some high school,standard,none,41,55,51
+aHkE6tmKLeCxAtftGeNchT,male,group C,high school,standard,none,71,60,61
+2uAnfiddJwv3kyyN9VuEt8,male,group C,associate's degree,standard,none,47,37,35
+Fj9We8oboZVogaiFcByvST,male,group E,associate's degree,standard,completed,62,56,53
+XX2QyWe2LN5YbXGMroVRbN,male,group B,associate's degree,standard,none,90,78,81
+fzgDu9UxZpkxvgXsuZjWvS,female,group C,bachelor's degree,standard,none,83,93,95
+PejAgwwEAHu4hYZVqFFqVn,female,group B,some college,free/reduced,none,61,68,66
+UJ5eCqWpEejw2mDMpJ2LVi,male,group D,some high school,standard,completed,76,70,69
+JDdTXWzNXpoqJyKfT96Ac2,male,group C,associate's degree,standard,none,49,51,43
+L8AMubpmwhVrKCdnHjUPiV,female,group B,some high school,free/reduced,none,24,38,27
+QgG7tCxpBKh3dgFZm7Fuw8,female,group D,some high school,free/reduced,completed,35,55,60
+8RrJ9rXhZA7K7m8URmeho7,male,group C,high school,free/reduced,none,58,61,52
+fFDnCPpAXZeEnGPLkaEd7a,female,group C,high school,standard,none,61,73,63
+Dacj3c4QPWjon4y5ygj9q2,female,group B,high school,standard,completed,69,76,74
+fyD37AXxbxtD4BoUWPeDVa,male,group D,associate's degree,standard,completed,67,72,67
+Ej26ypM93rmukFVtL6kFQH,male,group D,some college,standard,none,79,73,67
+o2h2mLzM7Hh9DxdWWBZrwP,female,group C,high school,standard,none,72,80,75
+Q8cNdsRko5ikPdFeeHCHTL,male,group B,some college,standard,none,62,61,57
+PpZaNaWCDKEcHXYX4KQrpk,female,group C,bachelor's degree,standard,completed,77,94,95
+AgBnskf7NTNRGVTuvpKhiS,male,group D,high school,free/reduced,none,75,74,66
+RteRbwiFZMoNCxeUHDEATb,male,group E,associate's degree,standard,none,87,74,76
+2k2co62wTdt5qRS2TCggQk,female,group B,bachelor's degree,standard,none,52,65,69
+3XqH7KREoCvX2mmdKuDMfM,male,group E,some college,standard,none,66,57,52
+GkjaeHNQq8UYM2uctzWNDT,female,group C,some college,standard,completed,63,78,80
+BxRVRFbKUzqcL6pXbU9Bzb,female,group C,associate's degree,standard,none,46,58,57
+6AmTWXNAmGAgofpbix6QYz,female,group C,some college,standard,none,59,71,70
+3VLg8ZdjPythjDZvuMHtvY,female,group B,bachelor's degree,standard,none,61,72,70
+iFGkDwS4yfbBgYCqwuBpJS,male,group A,associate's degree,standard,none,63,61,61
+dCe7BfywK2eXHYsZGVqhwM,female,group C,some college,free/reduced,completed,42,66,69
+mXhSmAN6adYrc5ympQJtJ2,male,group D,some college,free/reduced,none,59,62,61
+cfUHm7tpN5LXfxkTHJs6Mn,female,group D,some college,standard,none,80,90,89
+4g8nSzz7EieD3o5Z46V2R6,female,group B,high school,standard,none,58,62,59
+7NfWDKEzUxnBunPy6xeLFQ,male,group B,some high school,standard,completed,85,84,78
+hLdomDJXBuRxa5pJqLtRZx,female,group C,some college,standard,none,52,58,58
+BZBpMvvMUYbX9Ef6vax2KH,female,group D,some high school,free/reduced,none,27,34,32
+cYTB9WubAqgezEb2Wac7WW,male,group C,some college,standard,none,59,60,58
+fV7EhJJh2JDeFRzyHBnEj9,male,group A,bachelor's degree,free/reduced,completed,49,58,60
+QNCqXatxV5ac3yTAfN2Ftt,male,group C,high school,standard,completed,69,58,53
+ejaHWZSXkaSr4F6oUjdzG8,male,group C,bachelor's degree,free/reduced,none,61,66,61
+6vTbdGgiHEFFatnmhp2TKd,female,group A,some high school,free/reduced,none,44,64,58
+hQQxUZTC24nhwhgQphbkh7,female,group D,some high school,standard,none,73,84,85
+fGCb5yytdSMWbZs4iprHLx,male,group E,some college,standard,none,84,77,71
+EFT6Qr2qZf9jFZ2Mz4RJiq,female,group C,some college,free/reduced,completed,45,73,70
+5MrV6khQkgPWWeLvxBDPdp,male,group D,some high school,standard,none,74,74,72
+bzH4NTKdjEtCuNP8GaM6gx,female,group D,some college,standard,completed,82,97,96
+KU8jpEoCx2y3jGqMaVeNYX,female,group D,bachelor's degree,standard,none,59,70,73
+A9BsGzPJXRcEHVtd4KqEDj,male,group E,associate's degree,free/reduced,none,46,43,41
+n9YvpU5gWg5FvC9fWaNu29,female,group D,some high school,standard,none,80,90,82
+QopKLT2SwXYHEDtZVNHGUp,female,group D,master's degree,free/reduced,completed,85,95,100
+CuXgDzd8LB4QkCScz9NVjk,female,group A,some high school,standard,none,71,83,77
+jKTg4fY36PtiYF4XnHvtKq,male,group A,bachelor's degree,standard,none,66,64,62
+g5ckS25f8EUyYJaKdxu4xd,female,group B,associate's degree,standard,none,80,86,83
+jHX9DQMRcTFfn3NSWHhz3n,male,group C,associate's degree,standard,completed,87,100,95
+2jQdshTDAS2YT7GngPFjaS,male,group C,master's degree,free/reduced,none,79,81,71
+FKJW57KLyWJbzSuyNXg9dN,female,group E,some high school,free/reduced,none,38,49,45
+cppVEiuUGx46R85ukBTV87,female,group A,some high school,free/reduced,none,38,43,43
+hvtdJCJtSjdgzZArrhHgeZ,female,group E,some college,standard,none,67,76,75
+oA6QLkJQVeAC9hfDGkCJtq,female,group E,bachelor's degree,standard,none,64,73,70
+4DoftKy9tBrpjPvTFhAKSd,female,group C,associate's degree,free/reduced,none,57,78,67
+WXFkZbFq4NjX8tDGQfK2dv,female,group D,high school,standard,none,62,64,64
+FRCzFHp7A6ujjt3vWkvbVf,male,group D,master's degree,standard,none,73,70,75
+anJHxEm74xBYARZupSLtMH,male,group E,some high school,free/reduced,completed,73,67,59
+fQvwVaAY979SEwbWjKRFBb,female,group D,some college,standard,none,77,68,77
+XT849k3E9EzeDhsiQs7oAs,male,group E,some college,standard,none,76,67,67
+4UGd4KP85E9KFas4oeNjRZ,male,group C,associate's degree,standard,completed,57,54,56
+NWQRksHmLpDTKJnfqNAMy8,female,group C,some high school,standard,completed,65,74,77
+DfqduDvRxN4eT9dUg6hM5k,male,group A,high school,free/reduced,none,48,45,41
+W4W9PXLp6hcqZEaHE6bBFa,female,group B,high school,free/reduced,none,50,67,63
+GNvVLWni9WCECynk6Sre6K,female,group C,associate's degree,standard,none,85,89,95
+83DTLhvNnZvXXkeTbbhxMp,male,group B,some high school,standard,none,74,63,57
+Ljo2jtKdZnkhC5C7B8Vi6G,male,group D,some high school,standard,none,60,59,54
+9mH2dm5rfLFtMvQMpaByys,female,group C,some high school,standard,completed,59,54,67
+C6kW3hHUysfhx9ixQQKAip,male,group A,some college,standard,none,53,43,43
+DtH3NWa9priq5SjecCK3YZ,female,group A,some college,free/reduced,none,49,65,55
+PZntA4FENryFCxgkjSraNF,female,group D,high school,standard,completed,88,99,100
+V5SJefECk3kTTH7FDCqwWK,female,group C,high school,standard,none,54,59,62
+WQYSGAagvhEvdsze67oLv3,female,group C,some high school,standard,none,63,73,68
+d6LkyqoEeR4ucNgCUGrULm,male,group B,associate's degree,standard,completed,65,65,63
+nTRDShbDkZyBYf2uMQEgz2,female,group B,associate's degree,standard,none,82,80,77
+JWHMmf7hQZQz4yJ4FZYmrp,female,group D,high school,free/reduced,completed,52,57,56
+TnYTTbfpLVDSz6FTzc53de,male,group D,associate's degree,standard,completed,87,84,85
+28hCSBzLS4CXyEQWsieNJy,female,group D,master's degree,standard,completed,70,71,74
+kuwzaFfaVBzef3J2AGXtaF,male,group E,some college,standard,completed,84,83,78
+ceDRk3ZP2RuGMRuMsTwsUW,male,group D,associate's degree,standard,none,71,66,60
+UqL55AcNT5Y7RAt4XKNUTL,male,group B,some high school,standard,completed,63,67,67
+PXVc9BVpvoidp4x5npzK2c,female,group C,bachelor's degree,free/reduced,completed,51,72,79
+WF2onAE6NEFPSKBWxaGAph,male,group E,high school,standard,none,84,73,69
+2LULkkALDPyXkBWTA6u4VH,male,group C,bachelor's degree,standard,completed,71,74,68
+RBD7UengqeJhzVtpqfyaYS,male,group C,associate's degree,standard,none,74,73,67
+aqmURhBvsVy4CPBQ5Wi6j3,male,group D,some college,standard,none,68,59,62
+UMrdDDSXCK9Pyqrm588gY9,male,group E,high school,free/reduced,completed,57,56,54
+aRKowVeEKXUfwLeVGoPaZB,female,group C,associate's degree,free/reduced,completed,82,93,93
+G2TpVwwaWzvTqxHNhYSmY2,female,group D,high school,standard,completed,57,58,64
+PXNUDcNGP4iqY8GZCEpFe8,female,group D,master's degree,free/reduced,completed,47,58,67
+RMH8girPmTCkaxSaAuNGPW,female,group A,some high school,standard,completed,59,85,80
+K4VASEAdmJ7k4QJ5hGkPge,male,group B,some college,free/reduced,none,41,39,34
+STxCaTF2JpvLrWVsrrYRGk,female,group C,some college,free/reduced,none,62,67,62
+hKRwEwaYQrSfspbWGiyQ4z,male,group C,bachelor's degree,standard,none,86,83,86
+kTKKRfd5K32XyiUcsuvNgU,male,group C,some high school,free/reduced,none,69,71,65
+E4b2JeCBAm3GhNeSQkyAGd,male,group A,some high school,free/reduced,none,65,59,53
+8hnvFi8QwKKoQkUnfvbAxw,male,group C,some high school,free/reduced,none,68,63,54
+Nznyv6eTV4MsM4Nf2Fj7AJ,male,group C,associate's degree,free/reduced,none,64,66,59
+KrbrLgwT3hvuJjpuKmP2jp,female,group C,high school,standard,none,61,72,70
+X7R7994udAcBnjUTcNRYjj,male,group C,high school,standard,none,61,56,55
+jhJAqokappADFVapHsjRm5,female,group A,some high school,free/reduced,none,47,59,50
+ZgFxdSYtDWTYCETNV3My6j,male,group C,some high school,standard,none,73,66,66
+4WwxeHkMtmviRRWGxoscnm,male,group C,some college,free/reduced,completed,50,48,53
+3C7DwZux9yRrFyRMf6xkBZ,male,group D,associate's degree,standard,none,75,68,64
+GS5WN7CWz6Bw6ygu6S9oTT,male,group D,associate's degree,free/reduced,none,75,66,73
+TGVdbvcfNhNyBteYeDGZ8H,male,group C,high school,standard,none,70,56,51
+CzSbKVp3mcWbTj3pyaeFJD,male,group D,some high school,standard,completed,89,88,82
+WjfjZ5WGw9Cu5mzi8BpTAe,female,group C,some college,standard,completed,67,81,79
+3EMZDFQJASr2YRWwN2CErv,female,group D,high school,standard,none,78,81,80
+XLmHpD4ZnfdRSXN3TXUJtb,female,group A,some high school,free/reduced,none,59,73,69
+SoCEikco25SCNQ4SWm7qe2,female,group B,associate's degree,standard,none,73,83,76
+SHeixtKyg87YZm4kgofxsZ,male,group A,some high school,free/reduced,none,79,82,73
+oHPLpUoi9W22ahfhaoZg5x,female,group C,some high school,standard,completed,67,74,77
+RDoGZGZfpirbMScz7ofkBd,male,group D,some college,free/reduced,none,69,66,60
+22YhdFc8Hh3A48KBWQCZjM,male,group C,high school,standard,completed,86,81,80
+jvE8YsZsSghRxR9HDG97Nv,male,group B,high school,standard,none,47,46,42
+AcmguGUMjxvepPvtxkmUoA,male,group B,associate's degree,standard,none,81,73,72
+bez2goiHdngJgBeS9opZkQ,female,group C,some college,free/reduced,completed,64,85,85
+ZyqxUawwoesoyUgTwWyNiE,female,group E,some college,standard,none,100,92,97
+XpPEw2fxFo6t9dWF33LwNR,female,group C,associate's degree,free/reduced,none,65,77,74
+Le8yjKdg5DEXM7EprwWppS,male,group C,some college,free/reduced,none,65,58,49
+LwfHaNFYUZ5YRZ6oV92TyB,female,group C,associate's degree,free/reduced,none,53,61,62
+DSWSFFjBdjCBRiaxZpW9jP,male,group C,bachelor's degree,free/reduced,none,37,56,47
+hvzFTEjaeyTvEerhr5NfpS,female,group D,bachelor's degree,standard,none,79,89,89
+atbMTsEgkvzFAR5HUjVDpE,male,group D,associate's degree,free/reduced,none,53,54,48
+ZFyMqLpmrDw8qf6WZe5pkz,female,group E,bachelor's degree,standard,none,100,100,100
+QkRxdzxsrSZnBCoff2hDie,male,group B,high school,standard,completed,72,65,68
+6JPkLjx6Ntvb2veycx5pdo,male,group C,bachelor's degree,free/reduced,none,53,58,55
+UwactT44EFm7EdcXQF7c8G,male,group B,some college,free/reduced,none,54,54,45
+AGXzTDR29RFirMHr24A95Q,female,group E,some college,standard,none,71,70,76
+nFvvZTQ2wHwydoxtyvTWXW,female,group C,some college,free/reduced,none,77,90,91
+bxfjDj3LWUxrrTKnr3jahS,male,group A,bachelor's degree,standard,completed,75,58,62
+bQfC4kjJ7MPEAfhB68W85Z,female,group C,some college,standard,none,84,87,91
+eQsrUHbMdZVqJRrdVWpsHK,female,group D,associate's degree,free/reduced,none,26,31,38
+DKbW9uksgn8kGsuxmVatd2,male,group A,high school,free/reduced,completed,72,67,65
+kk8JaTvoNR82iAKKcffvaV,female,group A,high school,free/reduced,completed,77,88,85
+CS466xcAQSnjG3snVEysP7,male,group C,some college,standard,none,91,74,76
+j3ugSxprrKWMHQkybDNcop,female,group C,associate's degree,standard,completed,83,85,90
+Bx9hY3P2KC6j9Xubu6RZ5Z,female,group C,high school,standard,none,63,69,74
+HRG4eMMf4DoDAvXVciTd7K,female,group C,associate's degree,standard,completed,68,86,84
+ccFbog2CktsZQy4WDfWyyJ,female,group D,some high school,standard,none,59,67,61
+gpaP3825LWAEQZBfsuccCy,female,group B,associate's degree,standard,completed,90,90,91
+hB7aQTDEbq7LMQ2zH4CeEJ,female,group D,bachelor's degree,standard,completed,71,76,83
+U3cyaaSCtTSHMuBRA9yUV6,male,group E,bachelor's degree,standard,completed,76,62,66
+U6LSFmmdYAeTmix7ux3FRv,male,group D,associate's degree,standard,none,80,68,72
+RP3B5oSpReCKNVxCsxXiUG,female,group D,master's degree,standard,none,55,64,70
+ih8cRxsPmYWrkXqEbrdLd7,male,group E,associate's degree,standard,none,76,71,67
+k868t3qke9oVENoHgdPyP3,male,group B,high school,standard,completed,73,71,68
+7GKzdNUDLpqZLbVnFEZM8H,female,group D,associate's degree,free/reduced,none,52,59,56
+dtayhdC8ZuWN3TDQXas8Ma,male,group C,some college,free/reduced,none,68,68,61
+WusnGf9TZgmYS6Qwkxy52Z,male,group A,high school,standard,none,59,52,46
+nyWCPZeCPohzZT8u694VkQ,female,group B,associate's degree,standard,none,49,52,54
+Zhf2WjKCbQRjfiweKV3dfm,male,group C,high school,standard,none,70,74,71
+Bjhz6uM7MeJHnnhnSksTKu,male,group D,some college,free/reduced,none,61,47,56
+C9UQrZC39GpzJE3o5xhbwE,female,group C,associate's degree,free/reduced,none,60,75,74
+FmJom6GSggfvFi4NiDeSnB,male,group B,some high school,standard,completed,64,53,57
+fX3LsYS4bG8KmzJLocZAmP,male,group A,associate's degree,free/reduced,completed,79,82,82
+8j9zGbPqEJ5DQZLqCKMiTW,female,group A,associate's degree,free/reduced,none,65,85,76
+Pm7VD9xk92Xt9YQ2bCcPJB,female,group C,associate's degree,standard,none,64,64,70
+gXy4anEVCGEHqMXszBHbWy,female,group C,some college,standard,none,83,83,90
+MG7L2qJkjGxLZp9zRGtJd9,female,group C,bachelor's degree,standard,none,81,88,90
+UUVGuQgM7eRForJvvyzAkX,female,group B,high school,standard,none,54,64,68
+b3z4ZuYCmBeLTFMmtnnvhT,male,group D,high school,standard,completed,68,64,66
+cXcZ3e6PNCmDMsoJFsNTGt,female,group C,some college,standard,none,54,48,52
+k5MBRe99ZbcUcLFKYCvqEK,female,group D,some college,free/reduced,completed,59,78,76
+M3iQZJfq98Mp6gd2hRmHvw,female,group B,some high school,standard,none,66,69,68
+RiQoX5deAyvXCHKiKgbMGR,male,group E,some college,standard,none,76,71,72
+gyLLYWqnJ6kk5GNkh97K9N,female,group D,master's degree,standard,none,74,79,82
+3TtaxiUcTKzchQ6XvPMc97,female,group B,associate's degree,standard,completed,94,87,92
+HxuPKECr9EbGaxkqHZs4Ax,male,group C,some college,free/reduced,none,63,61,54
+nMaF8PeBWbaASUug4qVJT7,female,group E,associate's degree,standard,completed,95,89,92
+mmiT9JQFViPWc25UbC2DAH,female,group D,master's degree,free/reduced,none,40,59,54
+DEq89hURNcRpjkTfQC4gMJ,female,group B,some high school,standard,none,82,82,80
+Wh8igXemeh3J4xiBSYYSea,male,group A,high school,standard,none,68,70,66
+XsDzReLHoZA7D8AS3SL5ML,male,group B,bachelor's degree,free/reduced,none,55,59,54
+McA27LzNMV7WmUw2f4XF2X,male,group C,master's degree,standard,none,79,78,77
+cVC3g3HFcpHTRzeQKiYC9o,female,group C,bachelor's degree,standard,none,86,92,87
+73BaDN5jTacbctZsEaNAQu,male,group D,some college,standard,none,76,71,73
+7geCrViartUFsT57hT6dzQ,male,group A,some high school,standard,none,64,50,43
+LEsD5zM8rfiw9SqGjr68mf,male,group D,some high school,free/reduced,none,62,49,52
+GkvLCE96aa8SPRsRnxFQq2,female,group B,some high school,standard,completed,54,61,62
+59TTz8PPbChpjxHFmT6bQ4,female,group B,master's degree,free/reduced,completed,77,97,94
+85NwpHm3RmKJ4zEWuseXU3,female,group C,some high school,standard,completed,76,87,85
+PmSyXJkyzTQaxp8u9HTg5k,female,group D,some college,standard,none,74,89,84
+n8HxBJXnv5tLNS3LTksyLq,female,group E,some college,standard,completed,66,74,73
+LW6kyoTHk5uEwb75n9M6US,female,group D,some high school,standard,completed,66,78,78
+BXg5SwdhdG2GRwmiJogXuV,female,group B,high school,free/reduced,completed,67,78,79
+E5utXgPyfuGXVZq8u59Xyx,male,group D,some college,standard,none,71,49,52
+PXeh2GGUeHqr9PqyMtZk8d,female,group C,associate's degree,standard,none,91,86,84
+VsjqNAT5A5BkeX7vHWmoNc,male,group D,bachelor's degree,standard,none,69,58,57
+jukb7Wq3Znk7HaJuPGSCFK,male,group C,master's degree,free/reduced,none,54,59,50
+4ovVtbZsPoS7B6vASxxo9U,male,group C,high school,standard,completed,53,52,49
+k9h3bLrFDSscjk2cjdCqc9,male,group E,some college,standard,none,68,60,59
+Zm7i9sueXd3h9ihq7oDNoS,male,group C,some high school,free/reduced,completed,56,61,60
+ZCtMGQmee8D3prB2Dk86hS,female,group C,high school,free/reduced,none,36,53,43
+UHvLtkVuvuNfb9ESKkLaZm,female,group D,bachelor's degree,free/reduced,none,29,41,47
+E49yd6SZAom2ErgVmGeGxY,female,group C,associate's degree,standard,none,62,74,70
+4bDjxwTmZcJyqpeAyKRAAi,female,group C,associate's degree,standard,completed,68,67,73
+9MGTYiijoSWKdPqrqKobLy,female,group C,some high school,standard,none,47,54,53
+dY54MGWrkL7x8yNmUaNrvF,male,group E,associate's degree,standard,completed,62,61,58
+888ad6WQSUbM6PScE9Gzob,female,group E,associate's degree,standard,completed,79,88,94
+6tMoEMB2LcdiFWXveKbqcp,male,group B,high school,standard,completed,73,69,68
+TxMXRLv2EfPSpAMkHXzSxT,female,group C,bachelor's degree,free/reduced,completed,66,83,83
+CKKZ6j2bgjowrGsuhHBWxp,male,group C,associate's degree,standard,completed,51,60,58
+agzoGbcaWAQZ5bsFzvCZFF,female,group D,high school,standard,none,51,66,62
+ntNQwZxzqyLvDek66eUjYF,male,group E,bachelor's degree,standard,completed,85,66,71
+6j4UK86uUCLrZ64WR8hWKw,male,group A,associate's degree,standard,completed,97,92,86
+ZRWSbGzXuDnScpoanWRbzc,male,group C,high school,standard,completed,75,69,68
+G8GVSV6cACpzAAbWyFyd5i,male,group D,associate's degree,free/reduced,completed,79,82,80
+Xc7ub9q7hA78E9xCMMvFXr,female,group C,associate's degree,standard,none,81,77,79
+Fy6FnRBYny7N4a42Ttiovj,female,group D,associate's degree,standard,none,82,95,89
+DSHRivZs5tzZyM2CRvGr9b,female,group D,master's degree,standard,none,64,63,66
+YMswqatL8wCDHoqBzQeWyz,male,group E,some high school,free/reduced,completed,78,83,80
+jncSLDtcxwcLQf8AwgGheB,female,group A,some high school,standard,completed,92,100,97
+LeyXAcLBGn8G4bpzb8XZGM,male,group C,high school,standard,completed,72,67,64
+GexFytR4VJ3XyMMgvywRhL,female,group C,high school,free/reduced,none,62,67,64
+YQ8yixqorGdBRgdtYN2kXE,male,group C,master's degree,standard,none,79,72,69
+VpJUg5A9D9PvZig8nmK4Fg,male,group C,some high school,free/reduced,none,79,76,65
+LVVsAqmW9GdAt27KAU6AN4,male,group B,bachelor's degree,free/reduced,completed,87,90,88
+9RsrnxMuDcs5VJvB92KjZC,female,group B,associate's degree,standard,none,40,48,50
+7BAtDiJksLoHQDRFVuoopL,male,group D,some college,free/reduced,none,77,62,64
+PjjeVHwT27iwQ7LJgnhZ4A,male,group E,associate's degree,standard,none,53,45,40
+b4qoiZbpzaPoXvQqoS9JzB,female,group C,some college,free/reduced,none,32,39,33
+a8HrSdQ2dWuyMZAjYGPcTc,female,group C,associate's degree,standard,completed,55,72,79
+JN8VHCyj3Z6iB8cHGytxpE,male,group C,master's degree,free/reduced,none,61,67,66
+Ns6E4qT5rveZgYkvxQ6Lya,female,group B,associate's degree,free/reduced,none,53,70,70
+XdPRRLQgAQVFYd3y6PAqrC,male,group D,some high school,standard,none,73,66,62
+kiSWVb8dqtVdqvhsShXTNP,female,group D,some college,standard,completed,74,75,79
+8WGY7WxbrdEBCXJc4hCgGY,female,group C,some college,standard,none,63,74,74
+kesMRxaQHhwH5yoxS2F7xZ,male,group C,bachelor's degree,standard,completed,96,90,92
+nnPHXTtA3jZ7xn5LTPsGLh,female,group D,some college,free/reduced,completed,63,80,80
+kVjnzVh86PV7acRXWAQrTE,male,group B,bachelor's degree,free/reduced,none,48,51,46
+XVmArXhrKzf8XARVUH39ns,male,group B,associate's degree,standard,none,48,43,45
+4UEUjHSTYSM6CfnofxtCQo,female,group E,bachelor's degree,free/reduced,completed,92,100,100
+f6sHwg5s8EUBG7UAtKKbcq,female,group D,master's degree,free/reduced,completed,61,71,78
+bkvf8deB6TjbuXDk8zSDmq,male,group B,high school,free/reduced,none,63,48,47
+XxtLjAbMrgcvXm9ybu8MPo,male,group D,bachelor's degree,free/reduced,none,68,68,67
+FtmrhLAygpTMDKFmZwkyYr,male,group B,some college,standard,completed,71,75,70
+juyKvGRRomHS6mjdBHG54X,male,group A,bachelor's degree,standard,none,91,96,92
+JBHPnD2kWXHzFHNqvP3dBA,female,group C,some college,standard,none,53,62,56
+bWXdrQcT2szar4qBsHA8Fn,female,group C,high school,free/reduced,completed,50,66,64
+CmEwWBM3n9MaCM9UPGMcf5,female,group E,high school,standard,none,74,81,71
+MGKJGWuLRgtuSyvazU6qZQ,male,group A,associate's degree,free/reduced,completed,40,55,53
+CVtnREcgzCdqGQ9q4SURHm,male,group A,some college,standard,completed,61,51,52
+KLjUGhFBFsAE3u78sXfNqc,female,group B,high school,standard,none,81,91,89
+e84XV37kkc2ZYBrv2GGQoB,female,group B,some college,free/reduced,completed,48,56,58
+9Sh2ug6fX25zJkYLmAfHcB,female,group D,master's degree,standard,none,53,61,68
+mJxqPtpdHwPKmKyVre23YM,female,group D,some high school,standard,none,81,97,96
+Jv28pLokadT7CaAFBSyNHk,female,group E,some high school,standard,none,77,79,80
+85qRETPBrKcRR6dVQikZYi,female,group D,bachelor's degree,free/reduced,none,63,73,78
+29KNZyuZqNaZuKDDsc2jWZ,female,group D,associate's degree,standard,completed,73,75,80
+VdNmE5aSn4RBjTKdjWNPHQ,female,group D,some college,standard,none,69,77,77
+H3ZPbEiquwz4tn6nnPahxN,female,group C,associate's degree,standard,none,65,76,76
+aatLc49zczBUAzfbz3KeKm,female,group A,high school,standard,none,55,73,73
+3Sg4cpF9GNyamvszYDcWtF,female,group C,bachelor's degree,free/reduced,none,44,63,62
+aBDzXr6e4GKYBMFjnidTnx,female,group C,some college,standard,none,54,64,65
+nFd6BZi8Dj9h2uFYcvUzrn,female,group A,some high school,standard,none,48,66,65
+7PD7r3mC6ttRGgaxBiF28N,male,group C,some college,free/reduced,none,58,57,54
+nSaZECZfMxo2Rg9F5JX9gP,male,group A,some high school,standard,none,71,62,50
+9NRENQbvCLTmi8AZZmzNHL,male,group E,bachelor's degree,standard,none,68,68,64
+C8AnFh37K4Uk4BxZwDRqkQ,female,group E,high school,standard,none,74,76,73
+bTn42rKKiX9U4PjyWUkviA,female,group C,bachelor's degree,standard,completed,92,100,99
+7rXpQDvszZGz5RfZApeuZn,female,group C,bachelor's degree,standard,completed,56,79,72
+26z2ktWw946woUwkwdJGiD,male,group B,high school,free/reduced,none,30,24,15
+nqsZHSKjui4UYoboKuxGwU,male,group A,some high school,standard,none,53,54,48
+fSH2Be267eTqLrAUy7DkMb,female,group D,high school,standard,none,69,77,73
+J2DconpXCsqT6JVai7G6ZR,female,group D,some high school,standard,none,65,82,81
+2icWSHhFuUTahy595qGhCP,female,group D,master's degree,standard,none,54,60,63
+dM2kLebNPAmsziGtGJroHy,female,group C,high school,standard,none,29,29,30
+eBVPxLGqryjURFp55YmpkD,female,group E,some college,standard,none,76,78,80
+E3fGBbqpCmGWcSbQ5U6AZg,male,group D,high school,free/reduced,none,60,57,51
+A5dJPunsgRxeVkSmsVvD6U,male,group D,master's degree,free/reduced,completed,84,89,90
+QLsWorXkATYUqnfDK2QsTQ,male,group C,some high school,standard,none,75,72,62
+V2ZoUZYikHiEA7emWHmCsJ,female,group C,associate's degree,standard,none,85,84,82
+m8pXaQDF7EKDQb2ag3tEQ7,female,group C,master's degree,free/reduced,none,40,58,54
+kTC89vcjXaHfrYyCbC9Gox,female,group E,some college,standard,none,61,64,62
+NYg7BwGXffs4UuWnEZwX8y,female,group B,associate's degree,standard,none,58,63,65
+ErLnDryq3XAntrvMjRzoxL,male,group D,some college,free/reduced,completed,69,60,63
+UaUE2SExNTU2JocHtze6FC,female,group C,some college,standard,none,58,59,66
+HNnQmZQjK8TjKMS27vSEf5,male,group C,bachelor's degree,standard,completed,94,90,91
+2uHiZP8xEAboFp9nLbo7Ki,female,group C,associate's degree,standard,none,65,77,74
+A97jYvcckLzgEiBLFyERQB,female,group A,associate's degree,standard,none,82,93,93
+i579WAeaYrz9tts7VKkN78,female,group C,high school,standard,none,60,68,72
+n7An9dzqWKtuiiN9uTWC8r,female,group E,bachelor's degree,standard,none,37,45,38
+P5aFsDkaiFMcvqGgpjjFiR,male,group D,bachelor's degree,standard,none,88,78,83
+ECcBS72bhRmpL6mM4VAiYZ,male,group D,master's degree,standard,none,95,81,84
+Nj9VN94jCoDupiq5Jr34Js,male,group C,associate's degree,free/reduced,completed,65,73,68
+4xfV3vyFrViSpw492okDwp,female,group C,high school,free/reduced,none,35,61,54
+YFjkiNfJhGKqaQphJqcAhX,male,group B,bachelor's degree,free/reduced,none,62,63,56
+ZpTg2erzsXQErWdxzspBsG,male,group C,high school,free/reduced,completed,58,51,52
+Hi97ickb2YA5JwDCYwpdCm,male,group A,some college,standard,completed,100,96,86
+XufSkcT7Luskj6BVLmo5Lo,female,group E,bachelor's degree,free/reduced,none,61,58,62
+HHzimH6yxcs7GP9JExnoKK,male,group D,some college,standard,completed,100,97,99
+k4c9BWomBz2XFo2biNjmuQ,male,group B,associate's degree,free/reduced,completed,69,70,63
+HGHTZWwFLzgpkK6QuqaGfM,male,group D,associate's degree,standard,none,61,48,46
+H352sNWHbeEcQ2ZWbjRzaa,male,group D,some college,free/reduced,none,49,57,46
+f9nNnjpsrDB5JgR5CYs44i,female,group C,some high school,standard,completed,44,51,55
+MWaBCdJYnjVykdkYzByQhi,male,group D,some college,standard,none,67,64,70
+7yXTpkAnEQEd4U9UmbgyQD,male,group B,high school,standard,none,79,60,65
+Kz96acSswJ7zHTPMc8ZP8Z,female,group B,bachelor's degree,standard,completed,66,74,81
+25252ZWcrireLAbCtcSLv3,female,group C,high school,standard,none,75,88,85
+ACXkEvULKUdUCqD6GVoZZm,male,group D,some high school,standard,none,84,84,80
+4JNeN6e94EUWLpvogeZNNM,male,group A,high school,standard,none,71,74,64
+ELJzFeEaYeyNwKWrq2hcnP,female,group B,high school,free/reduced,completed,67,80,81
+RMqQnurgDLXXSDr5MqeKyY,female,group D,some high school,standard,completed,80,92,88
+8PH3L2oDhgwCLmadNkP7YV,male,group E,some college,standard,none,86,76,74
+TVVGs2JFiBCfTpZ2jVVMJd,female,group D,associate's degree,standard,none,76,74,73
+d688zqewjMvGY5UJ7zE4y6,male,group D,high school,standard,none,41,52,51
+HdWf58vFU3gCCSxQW7727b,female,group D,associate's degree,free/reduced,completed,74,88,90
+ALzVBEAbRv5ythuqMsxqPx,female,group B,some high school,free/reduced,none,72,81,79
+NiE9Tj937wnR8zMZtpbtZ7,female,group E,high school,standard,completed,74,79,80
+EzyjJtX5EEa6u6LLtFpzMQ,male,group B,high school,standard,none,70,65,60
+Nu7DThGGpaSxmN7tPoKGnM,female,group B,bachelor's degree,standard,completed,65,81,81
+bY63CVEuBSzZkT7R4AA4Qv,female,group D,associate's degree,standard,none,59,70,65
+g4KENL6cuG7t4LTLWtJUwF,female,group E,high school,free/reduced,none,64,62,68
+WVLJiBmzjjFhXSv4pEWrJ7,female,group B,high school,standard,none,50,53,55
+GTLAKmYCQBkPGjjKgwjHXj,female,group D,some college,standard,completed,69,79,81
+jycQbVe3gXdV3vgMjWrtfo,male,group C,some high school,free/reduced,completed,51,56,53
+2rh9QQtVQtYfwiZPxPtpJv,female,group A,high school,standard,completed,68,80,76
+fZigDn5GwjS8TxZnTEx7Vh,female,group D,some college,standard,completed,85,86,98
+agaqV45bPBmgZa93ymzoxL,female,group A,associate's degree,standard,completed,65,70,74
+QmT29b4sRkJ9TA4HdQxqwk,female,group B,some high school,standard,none,73,79,79
+J9S2JWqovDhKrXx8kMBai7,female,group B,some college,standard,none,62,67,67
+b8KuT8Ck8iqaxLarnVDg8g,male,group C,associate's degree,free/reduced,none,77,67,64
+PrC25F863VLWKrqqHosmyB,male,group D,some high school,standard,none,69,66,61
+CxTuCYvqsPcSoRFqfDA9s7,female,group D,associate's degree,free/reduced,none,43,60,58
+SfCFjssWDR5Wag9xvS3DtE,male,group D,associate's degree,standard,none,90,87,85
+TRE8ykinhok5ADitQiR6pX,male,group C,some college,free/reduced,none,74,77,73
+iYoDAKEcyoCWpxjhq6YpDc,male,group C,some high school,standard,none,73,66,63
+QZhsSQDYcp6Pt86Jemt44d,female,group D,some college,free/reduced,none,55,71,69
+BX5RGL43d5F4y9GNkzMWbF,female,group C,high school,standard,none,65,69,67
+EkEWxE4Eeu9NnAXBaBt2Z8,male,group D,associate's degree,standard,none,80,63,63
+2sfm77xdDa8D7doEwQs8PL,female,group C,some high school,free/reduced,completed,50,60,60
+F7qDn3EmC59zBQWJC9DDCD,female,group C,some college,free/reduced,completed,63,73,71
+7C4rBRjt3p5TJS5vpwwDY6,female,group B,bachelor's degree,free/reduced,none,77,85,87
+bg7ED59B9Dfk4Fymgu48zW,male,group C,some college,standard,none,73,74,61
+F9f6tBXGW8D9EWbvUegDe9,male,group D,associate's degree,standard,completed,81,72,77
+S8E43CG47UnrT5zGgwE4Dm,female,group C,high school,free/reduced,none,66,76,68
+c5JTgXVKUiDN4Lh8qYgFh4,male,group D,associate's degree,free/reduced,none,52,57,50
+Ro5EgnSekGe8XmfqwtSKDw,female,group C,some college,standard,none,69,78,76
+hJrNiGQ6kxN3QKYxDV2Uv4,female,group C,associate's degree,standard,completed,65,84,84
+EPpPy9pDKeA6TgRELVuZWa,female,group D,high school,standard,completed,69,77,78
+f2ThYgHsdwUe8rtKsQtzvt,female,group B,some college,standard,completed,50,64,66
+ce6DiXzg4ZqEoHsCdfZUnp,female,group E,some college,standard,completed,73,78,76
+JmmJoiQnjRmi2hf4E6qCLD,female,group C,some high school,standard,completed,70,82,76
+fSET6Cm5zaf6RUuSBUM3v2,male,group D,associate's degree,free/reduced,none,81,75,78
+Hxub9U6LV2qSJtcKePd6Uy,male,group D,some college,free/reduced,none,63,61,60
+8KK9wQ5Q7WZmbSCzarEzox,female,group D,high school,standard,none,67,72,74
+eFRVYTWt2TTbnhwwBHsWhi,male,group B,high school,standard,none,60,68,60
+UXNkpPsfBDrJZxBKA3mb4J,male,group B,high school,standard,none,62,55,54
+TaZKY8kGGzCSZ2nzdW8gK7,female,group C,some high school,free/reduced,completed,29,40,44
+cQfsfhJaGU3mBd2DwKg95y,male,group B,some college,standard,completed,62,66,68
+NYGHXyJMi3L7xDjNvLUsBH,female,group E,master's degree,standard,completed,94,99,100
+j8UAednPLRtYnjyLL8wAQB,male,group E,some college,standard,completed,85,75,68
+cy65bRdMP2ffgsQ6Sq7YEo,male,group D,associate's degree,free/reduced,none,77,78,73
+dJrSCPvaYJkcrmaDbJBdPv,male,group A,high school,free/reduced,none,53,58,44
+bW7kP5v3ar4Kh3e4kahN2s,male,group E,some college,free/reduced,none,93,90,83
+ABbKXeWRNXxJR3szzQmUFb,female,group C,associate's degree,standard,none,49,53,53
+X3xd5FqdFQSCEfhKDRU83K,female,group E,associate's degree,free/reduced,none,73,76,78
+HHU4FEKXhzvFzSSmNo7nwj,female,group C,bachelor's degree,free/reduced,completed,66,74,81
+SHg6pFmgq4cz7tXTUtr7fn,female,group D,associate's degree,standard,none,77,77,73
+EsVAyC49rqsrkqS3YMgZM3,female,group C,some high school,standard,none,49,63,56
+E5kShUP7EdNFsPywkRtqaR,female,group D,some college,free/reduced,none,79,89,86
+2rTBzhHpPmu3SNJxJH7d4J,female,group C,associate's degree,standard,completed,75,82,90
+Cuq9T9yxR5BTG5r4gZF7jQ,female,group A,bachelor's degree,standard,none,59,72,70
+Awuwp2BvvJZnUPzzhK8RiZ,female,group D,associate's degree,standard,completed,57,78,79
+DJRjgRjTEMwpLFASXBqpsU,male,group C,high school,free/reduced,none,66,66,59
+bgzt4Tchykn44FkFNxnKEP,female,group E,bachelor's degree,standard,completed,79,81,82
+XzCEuoiWb9vBQDG4CQdECh,female,group B,some high school,standard,none,57,67,72
+PnVCLEqcSXG2CZMYC3Fcrx,male,group A,bachelor's degree,standard,completed,87,84,87
+dXLf8mYK2oXKDDG9CqBTPM,female,group D,some college,standard,none,63,64,67
+Lid8owyLctS3NqWM2Wc8FQ,female,group B,some high school,free/reduced,completed,59,63,64
+457XwgouiDrvnwqU3Bod7R,male,group A,bachelor's degree,free/reduced,none,62,72,65
+WPqQQG8PChbCxjFrVpKSiQ,male,group D,high school,standard,none,46,34,36
+jTfTxqazRAbpKJByLPK3XG,male,group C,some college,standard,none,66,59,52
+oHowishaTqcFqiaoRkgGiT,male,group D,high school,standard,none,89,87,79
+e42Fkj8628NQzzJBtAkUnZ,female,group D,associate's degree,free/reduced,completed,42,61,58
+XskKbRKVpW7n2fZxyFMBgg,male,group C,some college,standard,completed,93,84,90
+j5xMWSwnfWw8YhCtN2TfhV,female,group E,some high school,standard,completed,80,85,85
+DGnzWHNu9cWvxU7UdFa9Wy,female,group D,some college,standard,none,98,100,99
+emfVWzyuRodm3LPAydz9Md,male,group D,master's degree,standard,none,81,81,84
+C973GMYLXMtgZzesRyJi8B,female,group B,some high school,standard,completed,60,70,74
+kELGRP54tUaBfWAozaR9xj,female,group B,associate's degree,free/reduced,completed,76,94,87
+PE8mo5nYM8QXseHaBy8N95,male,group C,associate's degree,standard,completed,73,78,72
+WBAJbHYc3NDggsmM2rQQ4L,female,group C,associate's degree,standard,completed,96,96,99
+ToDuVjigkptaDiDTvZZfUq,female,group C,high school,standard,none,76,76,74
+Eabdu4qqDz5JPgZ9ua2vPC,male,group E,associate's degree,free/reduced,completed,91,73,80
+QGHwRsQtoY7XCfgLsiQNH5,female,group C,some college,free/reduced,none,62,72,70
+HqgM4vGHLY4iEvUH6R3SVX,male,group D,some high school,free/reduced,completed,55,59,59
+5QDaousrTteF7NSnwE3QMa,female,group B,some high school,free/reduced,completed,74,90,88
+HZA3QynoqJ3f9wV8w6rLVJ,male,group C,high school,standard,none,50,48,42
+9HTFjGHJc4irXCYtW8kH3N,male,group B,some college,standard,none,47,43,41
+Soj7upNK3biwEPkENbs365,male,group E,some college,standard,completed,81,74,71
+b3MaQkWBQcH6B54g9LwaeW,female,group E,associate's degree,standard,completed,65,75,77
+nhiGXrhFb8Zx7aWQgJmNYm,male,group E,some high school,standard,completed,68,51,57
+eJAktfuBbNLnHk8WExj3KW,female,group D,high school,free/reduced,none,73,92,84
+BsF3EDic2gZu6x7FQaZ3D8,male,group C,some college,standard,none,53,39,37
+oU7QJ5eQPTky6oMnHP8bEg,female,group B,associate's degree,free/reduced,completed,68,77,80
+DsfVxvXjTJWHv2tUcioXde,male,group A,some high school,free/reduced,none,55,46,43
+HweDtu7pugjGn4huH8zivj,female,group C,some college,standard,completed,87,89,94
+LgxTVnnYbNpMcGvfmqhCxJ,male,group D,some high school,standard,none,55,47,44
+SnQVscwXPg5TojzCRezsSm,female,group E,some college,free/reduced,none,53,58,57
+eQsYJwRWzKLUuBDkZkCM3W,male,group C,master's degree,standard,none,67,57,59
+2hTLm2xeJgfRgow9ZK9mTB,male,group C,associate's degree,standard,none,92,79,84
+bn5zePULj5Js7KqFp3k5gC,female,group B,some college,free/reduced,completed,53,66,73
+TM9WsCtkTof4LvgkkxaZq4,male,group D,associate's degree,standard,none,81,71,73
+XCpKcNRPXGfUjkqnwf8Zj8,male,group C,high school,free/reduced,none,61,60,55
+Eu64EczGmnbCYeHUPgPEHb,male,group D,bachelor's degree,standard,none,80,73,72
+aTi3FtFrHzFbaRCw5hznNd,female,group A,associate's degree,free/reduced,none,37,57,56
+k2E9EBjPMzWyaqSfwJGkio,female,group C,high school,standard,none,81,84,82
+HezP7ciA2Ms5FtcNb5AmAF,female,group C,associate's degree,standard,completed,59,73,72
+dxAmaQfKZcoh3sL4VCYEzQ,male,group B,some college,free/reduced,none,55,55,47
+2aMBAqnBEk7Ayfjn82mrqF,male,group D,associate's degree,standard,none,72,79,74
+FkQmxSVqByHugPctJSHCSe,male,group D,high school,standard,none,69,75,71
+NgKUvnsuMun7PekmCvgzS5,male,group C,some college,standard,none,69,64,68
+ETomBK4DkFsYdxRvJESzj5,female,group C,bachelor's degree,free/reduced,none,50,60,59
+Zn4VtWPF845rUAosJsM69j,male,group B,some college,standard,completed,87,84,86
+LDeHEdawVf99sHXKVPDKt7,male,group D,some high school,standard,completed,71,69,68
+dmiazPVXpaAg3d76v5pNyH,male,group E,some college,standard,none,68,72,65
+LohRZmTQwJbYAJz8ZRJgMo,male,group C,master's degree,free/reduced,completed,79,77,75
+UvgUCeqLHxo3o7U2TFxHRY,female,group C,some high school,standard,completed,77,90,85
+DPwQhxegQGaB3oxZwCK4J9,male,group C,associate's degree,free/reduced,none,58,55,53
+o7kpW2gcYLcV7C4y46EV8A,female,group E,associate's degree,standard,none,84,95,92
+k3KoMEeEgyg6TV5ET7Sge9,male,group D,some college,standard,none,55,58,52
+ScQkZr7q6gB8MK3K8qADov,male,group E,bachelor's degree,free/reduced,completed,70,68,72
+foNCTgR2ZaQLgdd84sypNJ,female,group D,some college,free/reduced,completed,52,59,65
+FwAXuhRYVYtKEySDVg9Hz4,male,group B,some college,standard,completed,69,77,77
+KtR6AjFuVfozGHFQqyhMgi,female,group C,high school,free/reduced,none,53,72,64
+b6YvWaPcqcRgsUrsaKGaSS,female,group D,some high school,standard,none,48,58,54
+UjnkvCidfNJD55RMjekUEs,male,group D,some high school,standard,completed,78,81,86
+goas4czdxQDNwMQKenYQxs,female,group B,high school,standard,none,62,62,63
+BPifTXA7V3DSxcR9DqXiF8,male,group D,some college,standard,none,60,63,59
+oEQ2qvuCqb6D3NAzNHLELH,female,group B,high school,standard,none,74,72,72
+XdFXRqDSuipLK59jKcaTQX,female,group C,high school,standard,completed,58,75,77
+mvCkCRrnqNLme5hUJihL25,male,group B,high school,standard,completed,76,62,60
+j3LjH4Z3u4PyKTBrzkvrsr,female,group D,some high school,standard,none,68,71,75
+bYccajH6PVCdcpCoE3itJE,male,group A,some college,free/reduced,none,58,60,57
+UXdovFhSBQXj4uZ9N3vsoc,male,group B,high school,standard,none,52,48,49
+MmbQEA2EWNd6V3stTvJ385,male,group D,bachelor's degree,standard,none,75,73,74
+ThCeN4LVt8p3F8rXBd89dX,female,group B,some high school,free/reduced,completed,52,67,72
+jCHsa4ndNbgeRbSAWsJpED,female,group C,bachelor's degree,free/reduced,none,62,78,79
+7KtkRcDrSC28Pos6As3Urd,male,group B,some college,standard,none,66,65,60
+GxdJrkKywBhj8MqDxPfXLn,female,group B,some high school,free/reduced,none,49,58,55
+dkadT7gsk9dzu27xRGT49n,female,group B,high school,standard,none,66,72,70
+JUfoEj4wfkauiLe8RisJtW,female,group C,some college,free/reduced,none,35,44,43
+Djmbm9V5VLkZtSzYERYrUh,female,group A,some college,standard,completed,72,79,82
+9S7u7a8jHpd4Fhg4YfYq5A,male,group E,associate's degree,standard,completed,94,85,82
+34r4XXDntZ98PDNpxDxN6v,female,group D,associate's degree,free/reduced,none,46,56,57
+N8RPQbxJ6h2MDnrCXE2QeB,female,group B,master's degree,standard,none,77,90,84
+3me7rr3i3ZaEVxCe5M6RCU,female,group B,high school,free/reduced,completed,76,85,82
+fxfgL9dZXXCZsaEbhMMCCP,female,group C,associate's degree,standard,completed,52,59,62
+4bvidVEwxFqKfGVVJgFJzB,male,group C,bachelor's degree,standard,completed,91,81,79
+JMkkHHjWDR59aaNtqWd7w7,female,group B,some high school,standard,completed,32,51,44
+BP8Nq7VSQc77n5GxjXY4po,female,group E,some high school,free/reduced,none,72,79,77
+gjxy36k9y9cmZWQyNkWuzs,female,group B,some college,standard,none,19,38,32
+nggvB7VNGiZUgaDy9JmFaR,male,group C,associate's degree,free/reduced,none,68,65,61
+SnwmDJZjKELTZSfUdWxFc8,female,group C,master's degree,free/reduced,none,52,65,61
+kFDLM3HsvNrsRex8FjD8MN,female,group B,high school,standard,none,48,62,60
+hy3TdBicHoZgnyZJUBrVFR,female,group D,some college,free/reduced,none,60,66,70
+GpHuJxjJcMyCehHkQ5dTNV,male,group D,high school,free/reduced,none,66,74,69
+EEtrThu25KTbpsotJAj2ot,male,group E,some high school,standard,completed,89,84,77
+juVDpuDGMnyYwY6oofBTs3,female,group B,high school,standard,none,42,52,51
+JCRyyAEzgFKesocrrnVkVg,female,group E,associate's degree,free/reduced,completed,57,68,73
+NuTJ68JenmFwSvSPD8vWfr,male,group D,high school,standard,none,70,70,70
+3g5CRZM3NzSbkHmYSnaLdv,female,group E,associate's degree,free/reduced,none,70,84,81
+392fbVRnb9VTLxFUUDASTV,male,group E,some college,standard,none,69,60,54
+hC7g8WfFg4osMMshhvxxCD,female,group C,associate's degree,standard,none,52,55,57
+n4Qxh9P5oVDTfDfDkJ4dtC,male,group C,some high school,standard,completed,67,73,68
+7NBzTPgeUt8eJTguziKfWz,male,group C,some high school,standard,completed,76,80,73
+XhuTGPMuwpdg6htgMmKNFz,female,group E,associate's degree,standard,none,87,94,95
+YFrTkvimrEjQTNnFC3xfDu,female,group B,some college,standard,none,82,85,87
+4dttSscfwPSN4V6KFVoqY4,female,group C,some college,standard,none,73,76,78
+gp5pkKt6uaGbZdnBepXnDf,male,group A,some college,free/reduced,none,75,81,74
+5JQCjN5sRFMp8MtiUwsNwV,female,group D,some college,free/reduced,none,64,74,75
+exaAaDpwrQNucHq9tYA8DD,female,group E,high school,free/reduced,none,41,45,40
+Ku42WAHSHTWBAjHziFZHGP,male,group C,high school,standard,none,90,75,69
+av3msn6jtwAwAnXsCL8tdb,male,group B,bachelor's degree,standard,none,59,54,51
+htiTuKshQ6BrQFyNtS2Hge,male,group A,some high school,standard,none,51,31,36
+iqK2pj4jLftpHPWjQtqKFp,male,group A,high school,free/reduced,none,45,47,49
+b3L7o8fSzH43rRkMYUQuXi,female,group C,master's degree,standard,completed,54,64,67
+hNMwj2BBf8wxmh795UxoUh,male,group E,some high school,standard,completed,87,84,76
+ALukxrxubyRhCqkUci6QKn,female,group C,high school,standard,none,72,80,83
+U5Y2aXSKsm9Mo9VGxTDhGd,male,group B,some high school,standard,completed,94,86,87
+mYxwvJHH4k2ddXihK7hGir,female,group A,bachelor's degree,standard,none,45,59,64
+WeiTgdGcmKePwhNGy4Eq2D,male,group D,bachelor's degree,free/reduced,completed,61,70,76
+QxzauBv3gAbJysjtyHAnt3,female,group B,high school,free/reduced,none,60,72,68
+eeuEfhg6BXLN8FUbApJQZZ,female,group C,some high school,standard,none,77,91,88
+hkZw68cCXYpkebqrsgZ73M,female,group A,some high school,standard,completed,85,90,92
+UGcwxY79PDjRiqP63Y6YuU,female,group D,bachelor's degree,free/reduced,none,78,90,93
+QxUwfzYssdrYYjACxMC6T9,male,group E,some college,free/reduced,completed,49,52,51
+mKUMQLL5usBfvGX2RcjzZ6,female,group B,high school,free/reduced,none,71,87,82
+LZsVvvSVZMvYHAifQT7NZz,female,group C,some high school,free/reduced,none,48,58,52
+cSxdrxYMjj7FmifKLfZavs,male,group C,high school,standard,none,62,67,58
+C3X4yUNyEZYv8CNpLhRTKd,female,group C,associate's degree,free/reduced,completed,56,68,70
+DkUnEXeUe5yyKDvxh7J2jg,female,group C,some high school,standard,none,65,69,76
+mNe84cYMNBoxawsuhSnkfJ,female,group D,some high school,free/reduced,completed,69,86,81
+WYmfBVPoChTcnPyof2Fy3U,male,group B,some high school,standard,none,68,54,53
+H7hUmzqCxXVD3SM7dDw4vG,female,group A,some college,free/reduced,none,61,60,57
+5ur7vAKQ38UPhRDJwA2dqd,female,group C,bachelor's degree,free/reduced,completed,74,86,89
+4WrRQhPSJUNM4riSSHSD6T,male,group A,bachelor's degree,standard,none,64,60,58
+8xChHETrUZptmjc3tbCoa8,female,group B,high school,standard,completed,77,82,89
+JHnKTauvoLYBpRFgr5fbr5,male,group B,some college,standard,none,58,50,45
+2BLyNaVVDzH8MKqEnWPTCr,female,group C,high school,standard,completed,60,64,74
+6rtDes4cRceRtyWAurfG99,male,group E,high school,standard,none,73,64,57
+ndMHfcqXZN3vokPQcmae6K,female,group A,high school,standard,completed,75,82,79
+o4vpGE5R2mu8LSThfzEHg3,male,group B,associate's degree,free/reduced,completed,58,57,53
+VrEhEhBkGr83tLJsPBEF9a,female,group C,associate's degree,standard,none,66,77,73
+4RVAZ3VEC3D4BfaduzZxWj,female,group D,high school,free/reduced,none,39,52,46
+8BLCo8BTG7Couf2koq7VLE,male,group C,some high school,standard,none,64,58,51
+BZeBy29UwxEJ4vbT7vtTSw,female,group B,high school,free/reduced,completed,23,44,36
+YwMtCUxbV8CHaTyoLtuTU6,male,group B,some college,free/reduced,completed,74,77,76
+V57maV6kNGfeASb3SEiM9p,female,group D,some high school,free/reduced,completed,40,65,64
+7dNe2qHEPG7YD6E4K7B4Ni,male,group E,master's degree,standard,none,90,85,84
+8QjDWzUpm6PfEHzhyQUgnb,male,group C,master's degree,standard,completed,91,85,85
+CNZtHpBr6SmD2ViqYYmkJV,male,group D,high school,standard,none,64,54,50
+d29W8UKZcoBQeq7hKFFv54,female,group C,high school,standard,none,59,72,68
+4qHpwpMSBzUtKcnoYeJ9pT,male,group D,associate's degree,standard,none,80,75,69
+QwcCZFFKqZYvx7Mwu5NPYm,male,group C,master's degree,standard,none,71,67,67
+TrjmNcDkuLdrdVAgTLqDS4,female,group A,high school,standard,none,61,68,63
+b7g6SU6EeEdFfWDpzDNUxu,female,group E,some college,standard,none,87,85,93
+fFg3vPzhGWJKgD72vdFJws,male,group E,some high school,standard,none,82,67,61
+ibaZoQ8JKPWqXfKrsKHgx3,male,group C,some high school,standard,none,62,64,55
+8qG7rdBkc9e248bRk24Aib,female,group B,bachelor's degree,standard,none,97,97,96
+ne6jH6wSMkd79Dyd9ta689,male,group B,some college,free/reduced,none,75,68,65
+TdgPN6VRbrrCrxiNAPDt6W,female,group C,bachelor's degree,standard,none,65,79,81
+8iE2Eg7SfJA7MvTAaenQaN,male,group B,high school,standard,completed,52,49,46
+Taco5Y8TfunVC3JdNN7Wky,male,group C,associate's degree,free/reduced,none,87,73,72
+HmAgQPqdZJExcDYSxgUioK,female,group C,associate's degree,standard,none,53,62,53
+GU6Mkp7WLSUGLgtVhZp22r,female,group E,master's degree,free/reduced,none,81,86,87
+45FG3gq5yFsimHeYniGLgm,male,group D,bachelor's degree,free/reduced,completed,39,42,38
+ms22wvPvR2Pu9y7jNpdFnE,female,group C,some college,standard,completed,71,71,80
+UdYZpEffsBKSzdfaJYrf5g,male,group C,associate's degree,standard,none,97,93,91
+54uv2o5NXBDTpWkK2ehmKG,male,group D,some college,standard,completed,82,82,88
+2mtieTYvtFXuQSiinDugCD,male,group C,high school,free/reduced,none,59,53,52
+HyT2XrW5zmUQXKsk8DF29v,male,group B,associate's degree,standard,none,61,42,41
+gGoE7JAHBRtPGhruceWuJh,male,group E,associate's degree,free/reduced,completed,78,74,72
+ihPZSs3ebXaWMwzGQ9twoH,male,group C,associate's degree,free/reduced,none,49,51,51
+M5vfuv8Hkc4CvQs3XPkQSQ,male,group B,high school,standard,none,59,58,47
+TyJz5pnBaWuPdvZjqMnxsg,female,group C,some college,standard,completed,70,72,76
+o2YfeMBTp7MrpRCp9nidQn,male,group B,associate's degree,standard,completed,82,84,78
+BEwXVTirPtYA3xHwbgqWjk,male,group E,associate's degree,free/reduced,none,90,90,82
+3KNDW6fXUhYZe92Ybua2rt,female,group C,bachelor's degree,free/reduced,none,43,62,61
+85H8jWMPjM96ok6UxJUghc,male,group C,some college,free/reduced,none,80,64,66
+m2xbZtELPSXUPr8HT5dBYu,male,group D,some college,standard,none,81,82,84
+YHgPmMSv3JmWjENo7krDEY,male,group C,some high school,standard,none,57,61,54
+GEfn6E7LQBgd9bNwzVCCRY,female,group D,some high school,standard,none,59,72,80
+iDzenf5D3GWcfVFZUQThZr,female,group D,associate's degree,standard,none,64,76,74
+iu3yD88yRSVDLphXJ8YKhe,male,group C,bachelor's degree,standard,completed,63,64,66
+5NQ9SrMtj8JgpMP59RLFdY,female,group E,bachelor's degree,standard,completed,71,70,70
+jRRaqyHHJ8KWNVCoeDQkgu,female,group B,high school,free/reduced,none,64,73,71
+nXh4Fgfoi5d7xD7P3V6P3M,male,group D,bachelor's degree,free/reduced,none,55,46,44
+hNRKKiSCmATan3jmhkLT8t,female,group E,associate's degree,standard,none,51,51,54
+8SaputKCfX4JJqEhi5Sjhn,female,group C,associate's degree,standard,completed,62,76,80
+AZ3JCEo2Kq9ZSVb9QLSvbh,female,group E,associate's degree,standard,completed,93,100,95
+cEv9HfWh3fsRg6dWdY7Zns,male,group C,high school,free/reduced,none,54,72,59
+h6cBViwSbzgSYQfjb5Dcjp,female,group D,some college,free/reduced,none,69,65,74
+FSJ9T4bRmNXu9rU9tbX4LS,male,group D,high school,free/reduced,none,44,51,48
+AWw2qAfYx9VxTwavXh3iu7,female,group E,some college,standard,completed,86,85,91
+NPWM9kdZMv9kq3fbpwS3xb,female,group E,associate's degree,standard,none,85,92,85
+6Q93ELyjfbNXqtaJ8Xf8Mc,female,group A,master's degree,free/reduced,none,50,67,73
+VmkpBzgzan88BKcFYmuLrF,male,group D,some high school,standard,completed,88,74,75
+kkHFyUTVmq7sbVygnizGWV,female,group E,associate's degree,standard,none,59,62,69
+nFdBPC4cbhuPNwP4QtxL4T,female,group E,some high school,free/reduced,none,32,34,38
+VuunJNbzX8hzeTfCerFQVA,male,group B,high school,free/reduced,none,36,29,27
+4cWVJrZ8TDzGYi52BzUMkP,female,group B,some high school,free/reduced,completed,63,78,79
+4VGiKckTkzZFPKAdEL6fW7,male,group D,associate's degree,standard,completed,67,54,63
+kWMHBjpsTuZ3SkpnZQf6ez,female,group D,some high school,standard,completed,65,78,82
+4HinySHGGMrxkYTZAXSNjg,male,group D,master's degree,standard,none,85,84,89
+CdePmgsR2VSTX8VstBphBh,female,group C,master's degree,standard,none,73,78,74
+Gb7pG39FUPMyWRjnJTpjmF,female,group A,high school,free/reduced,completed,34,48,41
+JaBziTKMsVUccsRLvQ7D9j,female,group D,bachelor's degree,free/reduced,completed,93,100,100
+iYmJvTnZ6c2sFDmbngHKhu,female,group D,some high school,free/reduced,none,67,84,84
+Nnuogqx7WYDtXasNA5V9xh,male,group D,some college,standard,none,88,77,77
+dCKBLCTJb6q5hzsxJrTf78,male,group B,high school,standard,none,57,48,51
+HPz3Lk6yktKCLSd2S4M6SS,female,group D,some college,standard,completed,79,84,91
+DPusiThnubS5AiTxmDMDAH,female,group C,bachelor's degree,free/reduced,none,67,75,72
+5b6a5mmd28QuX8NUQRmzsU,male,group E,bachelor's degree,standard,completed,70,64,70
+H9pf3AUihJ8KGQTDBxjNEQ,male,group D,bachelor's degree,free/reduced,none,50,42,48
+Eyxms3ENUfKm8QJ3KjE9oH,female,group A,some college,standard,none,69,84,82
+Yng5YBk3THGur7h2n2Cyx8,female,group C,bachelor's degree,standard,completed,52,61,66
+FvCvAYDves95KiKQFWbCU4,female,group C,bachelor's degree,free/reduced,completed,47,62,66
+Bj7GjpCRAvjvSGWrRVFePA,female,group B,associate's degree,free/reduced,none,46,61,55
+esX3fmv4WS4xR69Cd3fagM,female,group E,some college,standard,none,68,70,66
+9xQotXHmHMy2TJZLmLowct,male,group E,bachelor's degree,standard,completed,100,100,100
+8i2CPcNkMDcB97qfJGC5Xu,female,group C,high school,standard,none,44,61,52
+CF4s5DcAw2VQJ4ATWkxBsk,female,group C,associate's degree,standard,completed,57,77,80
+Fv2FkQLFQLB2BcFrzv7phE,male,group B,some college,standard,completed,91,96,91
+Gw8pe9KxP2DznEooi2mArX,male,group D,high school,free/reduced,none,69,70,67
+Wgje3Zv4n8bGAvJDeUZh2T,female,group C,high school,free/reduced,none,35,53,46
+mwegLg5RGFrNXQ6fcFWRD4,male,group D,high school,standard,none,72,66,66
+9iZw9JNVkC726pkAGuN6Bs,female,group B,associate's degree,free/reduced,none,54,65,65
+PVcGYEgK8R4xRdxXih3EZg,male,group D,high school,free/reduced,none,74,70,69
+BQCEWLZsSQASjVZTfnmKfF,male,group E,some high school,standard,completed,74,64,60
+BDBNydspHeScLwjeKTa8Vh,male,group E,associate's degree,free/reduced,none,64,56,52
+nuQT53STK6iqwXeAw9gFEb,female,group D,high school,free/reduced,completed,65,61,71
+JV5Fu4NM56XPiziSKt5GRZ,male,group E,associate's degree,free/reduced,completed,46,43,44
+R7sSSVPc8pZNbywFsui4xy,female,group C,some high school,free/reduced,none,48,56,51
+NpYYSVr2VezS3sfLF4GZJw,male,group C,some college,free/reduced,completed,67,74,70
+Xhag2kgtFoBNzp5ZVwFMfE,male,group D,some college,free/reduced,none,62,57,62
+hE5u2kYRxjDyHzPDG6XZAZ,male,group D,associate's degree,free/reduced,completed,61,71,73
+QHKzyKNBmFCcg6Wkw3NkEU,male,group C,bachelor's degree,free/reduced,completed,70,75,74
+FznTJ6fW8v5SZ2wVVUaVbQ,male,group C,associate's degree,standard,completed,98,87,90
+4xzjgc9Jr4YqBCQRqVBiAP,male,group D,some college,free/reduced,none,70,63,58
+7yPX54qRCqSdjAzBo7fdq9,male,group A,associate's degree,standard,none,67,57,53
+VX8Zd2xDnuofMfmfVbUovh,female,group E,high school,free/reduced,none,57,58,57
+FRXB4AKqAq5MA6TjcNLGfK,male,group D,some college,standard,completed,85,81,85
+UosVknw43RnEsa3G3t7AJX,male,group D,some high school,standard,completed,77,68,69
+VPfarDKTWzzvBsoKyfRwKb,male,group C,master's degree,free/reduced,completed,72,66,72
+Ngm82RABAFgQaVQxBPwX4j,female,group D,master's degree,standard,none,78,91,96
+HSat5ByGjjjv3LYXyKRSib,male,group C,high school,standard,none,81,66,64
+3BSdasNMvM2ofD82HLLw7t,male,group A,some high school,free/reduced,completed,61,62,61
+BAf92oTe7Y6DTEdibxrohK,female,group B,high school,standard,none,58,68,61
+QoMR3FP9dvVCJm3ojRAYco,female,group C,associate's degree,standard,none,54,61,58
+jVe6TDhejM6hHQGV9XpMvw,male,group B,high school,standard,none,82,82,80
+HbMADZSdo9n2HW42KFUxCt,female,group D,some college,free/reduced,none,49,58,60
+mD2TWrAQ7UddykkSB2fzQc,male,group B,some high school,free/reduced,completed,49,50,52
+ZW5mHur2KxZnnsmRQbNMqj,female,group E,high school,free/reduced,completed,57,75,73
+CAFkES65R9XBp4t9saqyid,male,group E,high school,standard,none,94,73,71
+n6uTun2smtrJX5aCvrEtUy,female,group D,some college,standard,completed,75,77,83
+6pmV2DtdDFqSmV2RoqnAyh,female,group E,some high school,free/reduced,none,74,74,72
+PnqF4YXNtKzadRJcuXMEaF,male,group C,high school,standard,completed,58,52,54
+CZ4FcJzDaxDYJCLfYmgKR9,female,group C,some college,standard,none,62,69,69
+dyK3LLKWLbhmGoWnhykQrN,male,group E,associate's degree,standard,none,72,57,62
+57Wz4SbJprZ7b9hMxkRLzb,male,group C,some college,standard,none,84,87,81
+JrG2LgNgi3Csq4g2oSaUpW,female,group D,master's degree,standard,none,92,100,100
+oWtqGpxY8UhXHi5Gks4rH7,female,group D,high school,standard,none,45,63,59
+PBhQ77WrkGT2oej7BY2ze3,male,group C,high school,standard,none,75,81,71
+eMPpnGMwFZCty7bwsGbNaR,female,group A,some college,standard,none,56,58,64
+8YS7oQifN6t8TwPakBa3ps,female,group D,some high school,free/reduced,none,48,54,53
+AgCHq4yKjfrE6exSQxbGjY,female,group E,associate's degree,standard,none,100,100,100
+YpVoZL9yPgPBGpQsGnhJDs,female,group C,some high school,free/reduced,completed,65,76,75
+EKy9BT5Z8ePu5Vbn2QeCDf,male,group D,some college,standard,none,72,57,58
+ig867gknS9wezx5ufW9Qbx,female,group D,some college,standard,none,62,70,72
+UoeuESm8NspdRnEVK3DeSu,male,group A,some high school,standard,completed,66,68,64
+Lgiugvzxhncr5p5dj8iu9J,male,group C,some college,standard,none,63,63,60
+CwhsiHUX8JunfBoAK3PxF9,female,group E,associate's degree,standard,none,68,76,67
+DNbZvcUdxUyJbKaD2NNRtu,female,group B,bachelor's degree,standard,none,75,84,80
+SeMPYWXV8x8B5cdigFcTNc,female,group D,bachelor's degree,standard,none,89,100,100
+QEdqGCGJox8iFeiddui5ci,male,group C,some high school,standard,completed,78,72,69
+gMECwKDMFVmNi7TTwcJvfz,female,group A,high school,free/reduced,completed,53,50,60
+AzVdaEYCWB9kXWaRNVx8uE,female,group D,some college,free/reduced,none,49,65,61
+Hw7uduTK8twjDonT8MVT52,female,group A,some college,standard,none,54,63,67
+k9gMPKxax2B9Ywdkqg94nB,female,group C,some college,standard,completed,64,82,77
+5jzZ6Wnx8stENQsYpkeZyG,male,group B,some college,free/reduced,completed,60,62,60
+7zcTeW3kagX3dEY7bcuN6p,male,group C,associate's degree,standard,none,62,65,58
+9ZVWJ5MxBHJWTSsAXsBVJN,male,group D,high school,standard,completed,55,41,48
+ZT2UQ74QrHQyQYSNLaTf8A,female,group C,associate's degree,standard,none,91,95,94
+9uQTdm2CuHnJ8hPEbP4Hjd,female,group B,high school,free/reduced,none,8,24,23
+6XynSkcSdoNKB8TngrX7WF,male,group D,some high school,standard,none,81,78,78
+d6shF7e35jwcTkNaHJQLMp,male,group B,some high school,standard,completed,79,85,86
+Babx3FDwGxXxVurreHrBcD,female,group A,some college,standard,completed,78,87,91
+98L4uhZBFBryGzS4ScMoCz,female,group C,some high school,standard,none,74,75,82
+R38bH2jdV5LuWy9TFXkUqr,male,group A,high school,standard,none,57,51,54
+5zwJzrPwKwmR4y4GrP5tHc,female,group C,associate's degree,standard,none,40,59,51
+n9MJ6Pup3LbZpHygvTS6nN,male,group E,some high school,standard,completed,81,75,76
+bQU9ZLFq4SzWbbFmvheQiu,female,group A,some high school,free/reduced,none,44,45,45
+JyfSGJbLFxsQNtJDNVSoVf,female,group D,some college,free/reduced,completed,67,86,83
+4XZ9VjwXHQcVtMetLfiJBt,male,group E,high school,free/reduced,completed,86,81,75
+Bjpry4dgP2r3t5jmra862o,female,group B,some high school,standard,completed,65,82,78
+5r5hQfmNDKq6Vyx7zsGdCi,female,group D,associate's degree,free/reduced,none,55,76,76
+gdcn7tVu3zaB6kv2JJSKUE,female,group D,bachelor's degree,free/reduced,none,62,72,74
+bB3GLefokckELjxfucovU8,male,group A,high school,standard,none,63,63,62
+6h9LuMWDLKpfgwq5q3GAhT,female,group E,master's degree,standard,completed,88,99,95
+TKJ2Wia9gLKce8EoGd5K6k,male,group C,high school,free/reduced,none,62,55,55
+iDmxTPyLhkkDhpgEATkxEQ,female,group C,high school,free/reduced,completed,59,71,65
+Cv3HgP2BbGTX2hVqSbHvpR,female,group D,some college,standard,completed,68,78,77
+7D9NuWjmhDfJTGRu8MEy5T,female,group D,some college,free/reduced,none,77,86,86
