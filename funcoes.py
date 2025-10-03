@@ -133,3 +133,19 @@ def salvar_dic_em_csv(arquivo_novo, dataset):
 
 
 
+import matplotlib.pyplot as plt
+
+def grafico_porcentagem(dados, grupo, cor='#00B5E5'):
+    porcentagens = st_porcentagem_por_grupos(dados, grupo)
+    
+    categorias = list(porcentagens.keys())
+    valores = list(porcentagens.values())
+
+    plt.figure(figsize=(8, 5))
+    plt.bar(categorias, valores, color=cor)
+    plt.title(f'Porcentagem por {grupo}', fontsize=14)
+    plt.ylabel('Porcentagem (%)')
+    plt.xticks(rotation=45)
+    plt.grid(axis='y', linestyle='--', alpha=0.5)
+    plt.tight_layout()
+    plt.show()

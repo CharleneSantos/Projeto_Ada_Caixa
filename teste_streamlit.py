@@ -101,5 +101,46 @@ mostrar_medias_por_area(dados, ['math score', 'reading score', 'writing score'])
 
 
 
+# #%%
 
-# %%
+azul_caixa = '#005CA9'
+laranja_caixa = '#F39200'		
+tangerina = '#F9B000'
+ceu = '#00B5E5'  # Azul Céu
+goiaba = '#EF765E'
+turquesa = '#54BBAB'
+uva = '#B26F9B'
+limao = '#AFCA0B'  # Limão
+azul_marinho = '#004198'
+branca = '#FFFFFF'
+
+
+
+
+
+st.write(f"<h1 style='color: {azul_marinho};text-align: center'>Análise da Performance de Estudantes em Testes</h1>", unsafe_allow_html=True)
+st.sidebar.title("Filtros")
+col1, col2 = st.columns(2)
+
+pc_genero_st = st_porcentagem_por_grupos(dados, 'gender')
+if pc_genero_st:
+    
+    rotulos = list(pc_genero_st.keys())
+    valores = list(pc_genero_st.values())
+    # Cria a figura e os eixos do Matplotlib
+    fig, ax = plt.subplots(figsize=(6, 6))  # Tamanho ajustado para o Streamlit
+    ax.pie(valores, 
+           	labels=rotulos, 
+        	autopct='%1.1f%%', 
+            colors=['lightgreen', 'salmon'],
+            textprops={'fontsize':8},
+            
+    )
+    ax.set_title('Proporção por Gênero', fontsize=12, loc='left')
+    col1.pyplot(fig)
+
+
+else:
+    st.warning('Não há dados de gênero válidos para exibir.')
+    
+grafico_porcentagem(dados, 'gender', cor='#EF765E')  # Goiaba
